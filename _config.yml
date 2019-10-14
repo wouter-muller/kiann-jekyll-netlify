@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml.
 baseurl: "" # the subpath of your site if applicable, e.g. /blog
-url: "https://jekyll-netlify-boilerplate.netlify.com" # the base hostname & protocol for your site, e.g. https://example.com
+image_path: "/dist/img"
 
 # Permalink format (/blog/ is ignored for pages)
 permalink: /blog/:title
@@ -28,20 +28,14 @@ permalink: /blog/:title
 # (used as a hook for styling etc)
 section: true
 
+plugins:
+  - jekyll-sitemap
+
 # set to 'true' to enable Netlify CMS (/admin) in production builds
 netlifycms: true
 
 # set to 'true' to enable Google Analytics tracking code in production builds
-analytics: false
-
-# Compress CSS
-sass:
-  style: compressed
-  sass_dir: _sass
-
-# Compress HTML (in liquid via layouts/compress.html)
-compress_html:
-  clippings: all
+analytics: true
 
 # set some common post defaults
 defaults:
@@ -54,12 +48,7 @@ defaults:
       section: "post" # set the root section name
 
 # Build settings
-markdown: kramdown
-
-# Kramdown options
-kramdown:
-  # Prevent IDs from being added to h1-h6 tags
-  auto_ids: false
+markdown: CommonMark
 
 # Include in processing (e.g. Netlify directives)
 # Uncomment before use
@@ -72,13 +61,20 @@ kramdown:
 # The following items will not be processed.
 exclude:
   - README.md
-  - LICENSE.txt
+  - LICENSE
   - netlify.toml
   - feed.xml
   - Gemfile
   - Gemfile.lock
+  - gulpfile.js
+  - package-lock.json
+  - package.json
   - node_modules
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - src/
+  - design/
+
+keep_files: [dist, uploads]
