@@ -5,6 +5,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, 
 permalink: /
 hero-image: uploads/hero-home.jpg
 include-in-other-pages-list: false
+include-in-menu: false
 ---
 # Ik ben Annelies Hofstee
 

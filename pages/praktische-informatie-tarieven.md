@@ -4,6 +4,7 @@ title: Praktische informatie & Tarieven
 permalink: /praktische-informatie-en-tarieven
 hero-image: /uploads/annelies-hofstee_kiann_lsfotografie-1.jpg
 include-in-other-pages-list: true
+include-in-menu: true
 ---
 ![](/uploads/thumbnail_20190917_190719_1568740072185_resized.jpg)
 
@@ -22,10 +23,10 @@ Het tarief voor een eerste coaching gesprek is €55 incl. btw. Vervolggesprekke
 
 Het tarief voor de Training ‘Ik leer leren’ training van 5 bijeenkomsten van 1 ½ uur is individueel €297,50 en €195 voor de groepstraining. Deze bedragen zijn inclusief werkboek en btw.
 
-U ontvangt na elke sessie een factuur per mail. 
+U ontvangt na elke sessie een factuur per mail.
 
-* Je kunt je kind en/of jezelf aanmelden via het aanmeldingsformulier onderaan deze pagina 
-* We stemmen vooraf af of we eerst met jou/jullie als ouder(s) jullie hulpvraag onderzoeken, of dat de eerste afspraak direct in het bijzijn van je kind plaatsvindt. 
+* Je kunt je kind en/of jezelf aanmelden via het aanmeldingsformulier onderaan deze pagina
+* We stemmen vooraf af of we eerst met jou/jullie als ouder(s) jullie hulpvraag onderzoeken, of dat de eerste afspraak direct in het bijzijn van je kind plaatsvindt.
 * De praktijk wijst uit dat er na 1 tot 5 afspraken al veel verandert. Aan het eind van iedere coaching bespreken we wat er nog meer nodig is en of een nieuwe afspraak wenselijk is.
 * Wilt u bij verhindering uw afspraak 24 uur van tevoren afmelden? Dit geeft mij nog de gelegenheid het plekje op te vullen. Dit is dan kosteloos. Wordt de afspraak later afgemeld of vergeten, dan ben ik genoodzaakt deze in rekening te brengen.
 * Het is mogelijk om coaching in te schakelen als uw kind een persoonsgebonden budget (PGB) ontvangt. Hiermee kunt u zelf zorg, hulp en begeleiding inkopen

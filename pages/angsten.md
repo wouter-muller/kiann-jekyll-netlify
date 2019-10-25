@@ -7,6 +7,7 @@ description: >-
   deserunt similique placeat animi, veniam sed. Rem debitis, alias aliquid.
 permalink: /angst
 include-in-other-pages-list: true
+include-in-menu: true
 ---
 # Angsten, dwanghandelingen, faalangst, zelfvertrouwen en weerbaarheid
 

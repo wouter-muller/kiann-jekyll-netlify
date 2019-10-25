@@ -39,6 +39,20 @@
 
     </main>
 
+    <div class="s-menu js-menu">
+        <button class="s-menu__close js-menu-close">
+            {% include svg/close.svg %}
+        </button>
+        <h2 class="s-menu__heading">Menu</h2>
+        {% for item in site.pages %}
+            {% if item.include-in-menu == true %}
+                <a class="s-menu__link" href="{{ item.permalink }}">{{ item.title }}</a>
+            {% endif %}
+        {% endfor %}
+    </div>
+
+    <div class="s-menu__backdrop js-menu-backdrop"></div>
+
     {% include footer.html %}
 
   </body>

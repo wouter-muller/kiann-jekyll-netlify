@@ -5,6 +5,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia 
 permalink: /hoog
 hero-image:
 include-in-other-pages-list: true
+include-in-menu: true
 ---
 
 # Hooggevoelige (sensitieve), hoogstimultatieve en temperamentvolle kinderen met een sterke eigen wil

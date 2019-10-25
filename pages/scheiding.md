@@ -4,6 +4,7 @@ title: Scheiding
 description: Lorem ipsum
 permalink: /scheiding
 include-in-other-pages-list: true
+include-in-menu: true
 ---
 # Scheiding
 

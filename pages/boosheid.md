@@ -5,6 +5,7 @@ description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia 
 permalink: /boos
 hero-image:
 include-in-other-pages-list: true
+include-in-menu: true
 ---
 # Boosheid
 
