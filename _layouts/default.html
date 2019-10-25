@@ -14,22 +14,26 @@
             <div class="c-hero__spacer"></div>
         {% endif %}
 
-        <div class="l-wrapper s-content">
-            {{ content }}
+        <div class="l-wrapper">
+            <div class="s-content">
+                {{ content }}
+            </div>
         </div>
 
         <div class="s-other-pages">
-            <div class="s-content">
-                <h2>Lees ook:</h2>
-                <ul>
-                    {% for other-page in site.pages %}
-                        {% if other-page.include-in-other-pages-list == true %}
-                            {% if other-page.permalink != page.permalink %}
-                                <li><a href="{{ other-page.permalink }}">{{ other-page.title }}</a></li>
+            <div class="l-wrapper">
+                <div class="s-content">
+                    <h2>Lees ook:</h2>
+                    <ul>
+                        {% for other-page in site.pages %}
+                            {% if other-page.include-in-other-pages-list == true %}
+                                {% if other-page.permalink != page.permalink %}
+                                    <li><a href="{{ other-page.permalink }}">{{ other-page.title }}</a></li>
+                                {% endif %}
                             {% endif %}
-                        {% endif %}
-                    {% endfor %}
-                </ul>
+                        {% endfor %}
+                    </ul>
+                </div>
             </div>
         </div>
 
