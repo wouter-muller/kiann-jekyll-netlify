@@ -1,0 +1,72 @@
+.s-content
+    padding: 50px 0
+    max-width: 700px
+    margin: 0 auto
+
+    h1,
+    h2,
+    h3,
+    h4
+        margin-bottom: 30px
+
+    p,
+    ul,
+    ol,
+    img
+        margin-bottom: 30px
+
+    h1
+        color: $h1-color
+        font-size: 40px
+
+    h2
+        color: $h2-color
+        font-size: 32px
+
+    h3
+        color: $h3-color
+        font-size: 24px
+        font-weight: 400
+
+    p,
+    li
+        color: $main-text-color
+        font-size: 18px
+        line-height: 1.6
+
+    em
+        color: $turqoise
+        position: relative
+        padding: 30px
+        display: block
+
+
+        &:before,
+        &:after
+            content: '"'
+            font-size: 50px
+            font-weight: bold
+            position: absolute
+
+        &:before
+            left: 0
+            top: 0
+
+        &:after
+            right: 0
+            bottom: 0
+
+    li
+        position: relative
+        padding-left: 40px
+
+        &:before
+            color: black
+            content: ''
+            left: 20px
+            top: 12px
+            position: absolute
+            width: 8px
+            height: 8px
+            background-color: $orange
+            border-radius: 100%

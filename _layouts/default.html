@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html data-current="{{ page.section }}" lang="nl">
+<html class="{{ page.section }}" lang="nl">
 
   {% include head.html %}
 
@@ -8,9 +8,15 @@
     {% include header.html %}
 
     <main>
+        {% if page.hero-image %}
+            <div class="c-hero" style="background-image: url({{ page.hero-image }})"></div>
+        {% else %}
+            <div class="c-hero__spacer"></div>
+        {% endif %}
 
-      {{ content }}
-
+        <div class="l-wrapper s-content">
+            {{ content }}
+        </div>
     </main>
 
     {% include footer.html %}
