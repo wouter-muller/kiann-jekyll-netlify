@@ -2,6 +2,7 @@
 layout: default
 title: ‘Ik Leer Leren’ Training
 permalink: /ik-leer-leren-training
+include-in-menu: true
 include-in-other-pages-list: true
 ---
 # ‘Ik Leer Leren’ Training
