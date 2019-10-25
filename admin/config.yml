@@ -43,7 +43,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Description", name: "description", widget: "text", required: false}
       - {label: "Permalink", name: "permalink", widget: "string"}
-      - {label: "Foto", name: "hero-image", widget: "image", required: false}
+      - {label: "Grote foto bovenaan", name: "hero-image", widget: "image", required: false}
       - {label: "In menu tonen?", name: "include-in-menu", widget: "boolean"}
-      - {label: "In LEES OOK lijstje tonen?", name: "include-in-other-pages-list", widget: "boolean"}
+      - {label: "In 'LEES OOK' lijstje tonen?", name: "include-in-other-pages-list", widget: "boolean"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
