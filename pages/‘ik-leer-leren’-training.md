@@ -15,3 +15,5 @@ De training is geschikt voor kinderen vanaf het moment dat ze met huiswerk te ma
 In de training coach ik de kinderen individueel extra op vlakken waar ze vastlopen en waarmee ze moeite hebben.
 
 De training bestaat uit 5 bijeenkomsten van 1 ½ uur en kan zowel individueel als in groepsverband gevolgd worden.
+
+![](/uploads/wegwijzer-gecertificeerd.jpg)
