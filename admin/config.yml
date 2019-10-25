@@ -33,6 +33,8 @@ collections: # A list of collections the CMS should be able to edit
   - name: "page"
     label: "Page"
     folder: "pages"
+    editor:
+      preview: false
     sort: "title:asc"
     create: true
     slug: "{{slug}}"
@@ -42,5 +44,5 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Foto", name: "hero-image", widget: "image"}
-      - {label: "In Lees ook lijstje tonen?", name: "include-in-other-pages", widget: "boolean"}
+      - {label: "In LEES OOK lijstje tonen?", name: "include-in-other-pages", widget: "boolean"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
