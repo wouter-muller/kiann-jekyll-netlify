@@ -48,3 +48,13 @@
         svg
             width: 20px
             height: 20px
+
+    &__backdrop
+        display: none
+        position: fixed
+        +fill-space
+        background-color: rgba(white, 0.9)
+        z-index: 99
+
+        &.\--visible
+            display: block
