@@ -5,9 +5,8 @@ backend:
   name: git-gateway # Netlify’s Git Gateway connects to Git provider’s API
   branch: master # Branch to update (master by default)
 
-media_folder: "assets/img/uploads" # Folder where user uploaded files should go
-
-publish_mode: editorial_workflow # Enable drafts
+media_folder: "_site/uploads" # Folder where user uploaded files should go
+public_folder: "/uploads"
 
 collections: # A list of collections the CMS should be able to edit
   # POSTS
@@ -35,12 +34,13 @@ collections: # A list of collections the CMS should be able to edit
     label: "Page"
     folder: "pages"
     sort: "title:asc"
-    create: false
+    create: true
     slug: "{{slug}}"
     fields:
-      - {label: "Layout", name: "layout", widget: "hidden", default: "page"}
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Permalink", name: "permalink", widget: "hidden"}
-      - {label: "Section", name: "section", widget: "hidden", default: "{{name}}"}
-      - {label: "Intro Paragraph", name: "intro_paragraph", widget: "markdown", required: false}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Permalink", name: "permalink", widget: "string"}
+      - {label: "Foto", name: "hero-image", widget: "image"}
+      - {label: "In Lees ook lijstje tonen?", name: "include-in-other-pages", widget: "boolean"}
       - {label: "Body", name: "body", widget: "markdown", required: false}

@@ -17,6 +17,22 @@
         <div class="l-wrapper s-content">
             {{ content }}
         </div>
+
+        <div class="s-other-pages">
+            <div class="s-content">
+                <h2>Lees ook:</h2>
+                <ul>
+                    {% for other-page in site.pages %}
+                        {% if other-page.include-in-other-pages-list == true %}
+                            {% if other-page.permalink != page.permalink %}
+                                <li><a href="{{ other-page.permalink }}">{{ other-page.title }}</a></li>
+                            {% endif %}
+                        {% endif %}
+                    {% endfor %}
+                </ul>
+            </div>
+        </div>
+
     </main>
 
     {% include footer.html %}

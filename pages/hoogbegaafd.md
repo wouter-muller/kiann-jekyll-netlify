@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Kiann Kindercoaching & Opvoedondersteuning
+title: Hooggevoelige (sensitieve), hoogstimultatieve en temperamentvolle kinderen met een sterke eigen wil
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia molestiae molestias hic accusamus consequuntur, fugiat eum vero nam adipisci quibusdam deserunt similique placeat animi, veniam sed. Rem debitis, alias aliquid.
 permalink: /hoog
-section: home
 hero-image:
+include-in-other-pages-list: true
 ---
 
 # Hooggevoelige (sensitieve), hoogstimultatieve en temperamentvolle kinderen met een sterke eigen wil
