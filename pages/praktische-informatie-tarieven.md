@@ -2,6 +2,7 @@
 layout: default
 title: Praktische informatie & Tarieven
 permalink: /praktische-informatie-en-tarieven
+hero-image: /uploads/annelies-hofstee_kiann_lsfotografie-1.jpg
 include-in-other-pages-list: true
 ---
 ![](/uploads/annelies-hofstee_kiann_lsfotografie-1.jpg)
