@@ -5,6 +5,8 @@ permalink: /praktische-informatie-en-tarieven
 hero-image: /uploads/annelies-hofstee_kiann_lsfotografie-1.jpg
 include-in-other-pages-list: true
 ---
+![](/uploads/thumbnail_20190917_190719_1568740072185_resized.jpg)
+
 # Praktische informatie & Tarieven
 
 Coachingsessies vinden plaats op vrijdag in mijn praktijk in het Gezondheidscentrum in Meerstad met parkeerruimte voor de deur. Omgeven door natuur, ruimte en rust. Op verzoek kom ik thuis langs op woensdag.
