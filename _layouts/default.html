@@ -9,7 +9,11 @@
 
     <main>
         {% if page.hero-image %}
-            <div class="c-hero" style="background-image: url({{ page.hero-image }})"></div>
+            <div class="c-hero" style="background-image: url({{ page.hero-image }})">
+                {% if page.hero-slogan %}
+                    <div class="c-hero__slogan">{{ page.hero-slogan }}</div>
+                {% endif %}
+            </div>
         {% else %}
             <div class="c-hero__spacer"></div>
         {% endif %}
