@@ -23,7 +23,7 @@ Mijn ervaring is dat elke situatie anders is aangezien elk kind, elke oudere en 
 
 Vaak zijn 1 tot 5 afspraken voldoende om samen processen te onderzoeken en voldoende handvaten mee te geven om zelf verder te gaan.
 
-![](/uploads/kluwen-poppetjes.svg)
+![](/uploads/kluwen-poppetjes.png)
 
 ## Mijn opleidingen:
 
