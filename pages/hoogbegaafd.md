@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Hooggevoelige (sensitieve), hoogstimultatieve en temperamentvolle kinderen met een sterke eigen wil
+title-tag: Hooggevoelige (sensitieve), hoogstimultatieve en temperamentvolle kinderen met een sterke eigen wil
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia molestiae molestias hic accusamus consequuntur, fugiat eum vero nam adipisci quibusdam deserunt similique placeat animi, veniam sed. Rem debitis, alias aliquid.
 permalink: /hoog
 hero-image:

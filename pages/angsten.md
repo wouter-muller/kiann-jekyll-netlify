@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 'Angsten, dwanghandelingen, faalangst, zelfvertrouwen en weerbaarheid'
+title-tag: 'Angsten, dwanghandelingen, faalangst, zelfvertrouwen en weerbaarheid'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia molestiae
   molestias hic accusamus consequuntur, fugiat eum vero nam adipisci quibusdam

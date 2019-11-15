@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Boosheid
+title-tag: Boosheid
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia molestiae molestias hic accusamus consequuntur, fugiat eum vero nam adipisci quibusdam deserunt similique placeat animi, veniam sed. Rem debitis, alias aliquid.
 permalink: /boos
 hero-image:

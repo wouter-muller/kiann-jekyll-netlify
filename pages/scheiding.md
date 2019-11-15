@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Scheiding
+title-tag: Scheiding
 description: Lorem ipsum
 permalink: /scheiding
 hero-image: /uploads/adobestock_249086908.jpeg

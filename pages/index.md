@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Kiann Kindercoaching & Opvoedondersteuning
+title-tag: Kiann Kindercoaching & Opvoedondersteuning
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, perspiciatis fugiat corporis accusantium dolor quibusdam mollitia eaque est alias, quod cupiditate laudantium explicabo maiores quia doloremque tempora enim quo nesciunt!
 permalink: /
 hero-image: uploads/hero-home.jpg
