@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to Jekyll!
+title: Welcome to Jekyll! (test)
 permalink: /welcome-to-jekyll
 ---
 # Welcome to Jekyll
