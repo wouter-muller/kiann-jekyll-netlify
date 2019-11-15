@@ -1,7 +1,7 @@
 ---
 layout: default
 title: A simple blog post
-permalink: a-simple-blog-post
+permalink: /a-simple-blog-post
 author: dan_urbanowicz
 date: 2018-07-11T00:12:57.000Z
 intro_paragraph: ''
