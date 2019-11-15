@@ -1,0 +1,17 @@
+---
+layout: default
+title: Blogs
+title-tag: Blogs - Kiann Kindercoaching & Opvoedondersteuning
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, perspiciatis fugiat corporis accusantium dolor quibusdam mollitia eaque est alias, quod cupiditate laudantium explicabo maiores quia doloremque tempora enim quo nesciunt!
+permalink: /blogs
+include-in-other-pages-list: false
+include-in-menu: true
+---
+<h1>Blogs</h1>
+
+<h2>Hier komt een overzicht van alle blogs</h2>
+
+{% for post in site.posts %}
+    <a href="{{ post.permalink }}">{{ post.title }}</a><br>
+
+{% endfor %}

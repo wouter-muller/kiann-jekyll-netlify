@@ -16,4 +16,5 @@ include-in-menu: true
 
 Samen onderzoeken we jullie situatie en de onderliggende oorzaken en het zo te veranderen naar een meer wenselijke situatie. Zowel voor jullie als ouders als voor je kind.
 
-*Ervaring ouder: “Door inzicht te krijgen van jou in de boze buien van onze dochter ben ik meer naar mijn rol als ouder gaan kijken. De boosheid komt nu veel minder vaak voor en vooral minder heftig door de tips die ik van jou heb gekregen. Dank!*
+## Ervaring ouder
+*Door inzicht te krijgen van jou in de boze buien van onze dochter ben ik meer naar mijn rol als ouder gaan kijken. De boosheid komt nu veel minder vaak voor en vooral minder heftig door de tips die ik van jou heb gekregen. Dank!*
