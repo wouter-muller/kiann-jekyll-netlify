@@ -2,11 +2,13 @@
 layout: default
 title: Boosheid
 title-tag: Boosheid
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia molestiae molestias hic accusamus consequuntur, fugiat eum vero nam adipisci quibusdam deserunt similique placeat animi, veniam sed. Rem debitis, alias aliquid.
+description: >-
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia molestiae
+  molestias hic accusamus consequuntur, fugiat eum vero nam adipisci quibusdam
+  deserunt similique placeat animi, veniam sed. Rem debitis, alias aliquid.
 permalink: /boos
-hero-image:
-include-in-other-pages-list: true
 include-in-menu: true
+include-in-other-pages-list: true
 ---
 # Boosheid
 
@@ -16,5 +18,8 @@ include-in-menu: true
 
 Samen onderzoeken we jullie situatie en de onderliggende oorzaken en het zo te veranderen naar een meer wenselijke situatie. Zowel voor jullie als ouders als voor je kind.
 
+![Uit de massa naar voren komen](/uploads/adobestock_249086908.jpeg)
+
 ## Ervaring ouder
-*Door inzicht te krijgen van jou in de boze buien van onze dochter ben ik meer naar mijn rol als ouder gaan kijken. De boosheid komt nu veel minder vaak voor en vooral minder heftig door de tips die ik van jou heb gekregen. Dank!*
+
+_Door inzicht te krijgen van jou in de boze buien van onze dochter ben ik meer naar mijn rol als ouder gaan kijken. De boosheid komt nu veel minder vaak voor en vooral minder heftig door de tips die ik van jou heb gekregen. Dank!_
