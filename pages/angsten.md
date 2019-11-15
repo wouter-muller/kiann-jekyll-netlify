@@ -1,14 +1,14 @@
 ---
 layout: default
-title: 'Angsten, dwanghandelingen, faalangst, zelfvertrouwen en weerbaarheid'
+title: Angst etc blah
 title-tag: 'Angsten, dwanghandelingen, faalangst, zelfvertrouwen en weerbaarheid'
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia molestiae
   molestias hic accusamus consequuntur, fugiat eum vero nam adipisci quibusdam
   deserunt similique placeat animi, veniam sed. Rem debitis, alias aliquid.
 permalink: /angst
-include-in-other-pages-list: true
 include-in-menu: true
+include-in-other-pages-list: true
 ---
 # Angsten, dwanghandelingen, faalangst, zelfvertrouwen en weerbaarheid
 
