@@ -26,8 +26,8 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Permalink", name: "permalink", widget: "string"}
       - {label: "Grote foto bovenaan", name: "hero-image", widget: "image", required: false}
       - {label: "Tekst over de grote foto heen", name: "hero-slogan", widget: "string", required: false}
-      - {label: "In menu tonen?", name: "include-in-menu", widget: "boolean"}
-      - {label: "In 'LEES OOK' lijstje tonen?", name: "include-in-other-pages-list", widget: "boolean"}
+      - {label: "In menu tonen?", name: "include-in-menu", widget: "boolean", required: false}
+      - {label: "In 'LEES OOK' lijstje tonen?", name: "include-in-other-pages-list", widget: "boolean", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
   # POSTS
   - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
