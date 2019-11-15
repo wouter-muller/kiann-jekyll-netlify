@@ -1,9 +1,9 @@
 ---
-layout: default
+layout: blog
 title: Welcome to Jekyll! (test)
 permalink: /welcome-to-jekyll
+friendly-date: Vrijdag 15 november 2019
 ---
-# Welcome to Jekyll
 
 ## You’ll find this post in your `_posts` directory.
 

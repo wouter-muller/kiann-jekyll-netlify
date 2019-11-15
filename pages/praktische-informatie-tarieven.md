@@ -4,6 +4,7 @@ title: Praktische informatie & Tarieven
 title-tag: Praktische informatie & Tarieven
 permalink: /praktische-informatie-en-tarieven
 hero-image: /uploads/annelies-hofstee_kiann_lsfotografie-1.jpg
+hero-slogan: Hier kan ook een tekstje staan, hoeft niet
 include-in-other-pages-list: true
 include-in-menu: true
 ---
