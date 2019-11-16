@@ -1,8 +1,6 @@
 ---
 layout: default
-title: >-
-  Hooggevoelige (sensitieve), hoogstimultatieve en temperamentvolle kinderen met
-  een sterke eigen wil
+title: 'Hooggevoelige, hoogstimultatieve en temperamentvolle kinderen'
 title-tag: Hooggevoeligheid HSK- hoogsensitief- Kiann kindercoaching
 description: >-
   Door hoogsensitieve kinderen de juiste begeleiding in hun opvoeding en op
