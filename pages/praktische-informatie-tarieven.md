@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contact- en adresgegevens & Tarieven
-title-tag: Contact -  Kiann kindercoaching.nl
+title-tag: Contact -  Kiann kindercoaching
 description: >-
   Heb je een vraag? Mail mij gerust via het contactformulier hieronder. Je vindt
   op deze pagina ook de contact- en adresgegevens en tarieven.
