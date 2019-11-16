@@ -26,7 +26,7 @@ Vaak beschikken deze kinderen nog niet over de vaardigheden om om te gaan met vo
 _Na een aantal sessies waarbij zowel dochterlief als wij bij jou zijn geweest, hebben wij weer voldoende tools om op een respectvolle manier verder te kunnen. We zaten een beetje vast in onze systemen. Daardoor was het thuis niet altijd even gezellig maar belangrijker nog, we merkten dat onze dochter er niet gelukkiger op werd. Door met jou in gesprek te gaan zijn we weer bewust geworden wat onze dochter nodig heeft en vooral hoe we op een positieve manier met elkaar om kunnen gaan. Onze dochter heeft tools gekregen om meer bewust te worden van wie zij is en wat ze kan. Het is en blijft een boeiend proces.
 Ik vond de afgelopen periode best een zware tijd. Al met al gaat het nu heel goed. Heel fijn._
 
-![De wereld overzichterlijk houden](/uploads/kluwen-poppetjes.png "De wereld overzichterlijk houden")
+![De wereld overzichterlijk maken Kiann kindercoaching](/uploads/kluwen-poppetjes.png "De wereld overzichterlijk houden")
 
 __
 
