@@ -14,6 +14,6 @@ include-in-other-pages-list: true
 
 ## Wanneer kinderen zelf last ervaren en moeite hebben wanneer ze niet goed genoeg presteren voor henzelf leggen ze eigenlijk hun lat te hoog.
 
-Ook kunnen kinderen (tijdelijk) last hebben van diverse angsten. Angst voor bepaalde dieren, gebeurtenissen of mensen. Vaak ligt er een andere oozaken onder deze angsten.
+Ook kunnen kinderen (tijdelijk) last hebben van diverse angsten. Angst voor bepaalde dieren, gebeurtenissen of mensen. Vaak ligt er een andere oorzaken onder deze angsten.
 
-Door de juiste begeleiding en inzichten te krijgen kan zowel faalangst als andere angsten reduceren of zelfs verdwijnen.
+Door de juiste begeleiding en inzichten te krijgen kunnen zowel faalangst als andere angsten reduceren of zelfs verdwijnen.
