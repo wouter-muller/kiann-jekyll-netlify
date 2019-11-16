@@ -1,12 +1,11 @@
 ---
 layout: default
-title: Boosheid
-title-tag: Boosheid
-description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia molestiae
-  molestias hic accusamus consequuntur, fugiat eum vero nam adipisci quibusdam
-  deserunt similique placeat animi, veniam sed. Rem debitis, alias aliquid.
-permalink: /boos
+title: Boosheid en driftbuien
+title-tag: Boosheid en driftbuien - Kiann Kindercoaching
+description: >
+  Zit je als ouders met je kind in een visieuze cirkel als het gaat om boosheid
+  en driftbuien? Weten wat je kind je verteld en nodig heeft is essentieel.
+permalink: www.kiannkindercoaching/ boosheid en driftbuien
 include-in-menu: true
 include-in-other-pages-list: true
 ---
@@ -16,7 +15,9 @@ include-in-other-pages-list: true
 
 ### De boze buien, driftbuien en woedeaanvallen kunnen diverse oorzaken hebben en vaak raak je als ouders de grip kwijt en kom je in een vicieuze cirkel terecht. Door kleine handvaten te geven kan er soms al een verandering ingezet worden.
 
-Samen onderzoeken we jullie situatie en de onderliggende oorzaken en het zo te veranderen naar een meer wenselijke situatie. Zowel voor jullie als ouders als voor je kind.
+Samen onderzoeken we jullie situatie en de onderliggende oorzaken om het zo te veranderen naar een meer wenselijke situatie. Zowel voor jullie als ouders als voor je kind.
+
+Wat verteld je kind je eigenlijk? Op welk moment gaat het mis? Hoe ga je om met de boze buien van je kind? Wat heeft je kind van jou nodig en waar trek je de grens? Allemaal vragen die aan bod komen om inzicht te krijgen in jullie proces en waar verandering ingezet kan worden.
 
 ![Uit de massa naar voren komen](/uploads/adobestock_249086908.jpeg)
 
