@@ -1,8 +1,11 @@
 ---
 layout: default
-title: ‘Ik Leer Leren’ Training
-title-tag: ‘Ik Leer Leren’ Training
-permalink: /ik-leer-leren-training
+title: ‘Ik Leer Leren’ Training en 'Plannen en uitvoeren'
+title-tag: '''Ik Leer Leren'' - ''Plannen en uitvoeren'' - Kiann kindercoaching'
+description: >-
+  In de 'Ik leer leren training' leren kinderen HOE ze moeten leren. Ook is er
+  een workshop over Plannen en uitvoeren wat voor veel tieners lastig is.
+permalink: www.Kiannkindercoaching - 'Ik leer leren training' - 'Plannen en uitvoeren'
 include-in-menu: true
 include-in-other-pages-list: true
 ---
@@ -18,4 +21,4 @@ In de training coach ik de kinderen individueel extra op vlakken waar ze vastlop
 
 De training bestaat uit 5 bijeenkomsten van 1 ½ uur en kan zowel individueel als in groepsverband gevolgd worden.
 
-![](/uploads/wegwijzer-gecertificeerd.jpg)
+![Ik leer leren training](/uploads/wegwijzer-gecertificeerd.jpg)
