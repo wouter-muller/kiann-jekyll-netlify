@@ -1,14 +1,17 @@
 ---
 layout: default
-title: Praktische informatie & Tarieven
-title-tag: Praktische informatie & Tarieven
-permalink: /praktische-informatie-en-tarieven
+title: Contact- en adresgegevens & Tarieven
+title-tag: Contact -  Kiann kindercoaching.nl
+description: >-
+  Heb je een vraag? Mail mij gerust via het contactformulier hieronder. Je vindt
+  op deze pagina ook de contact- en adresgegevens en tarieven.
+permalink: www.Kiann kindercoaching.nl - Contact
 hero-image: /uploads/annelies-hofstee_kiann_lsfotografie-1.jpg
-hero-slogan: Hier kan ook een tekstje staan, hoeft niet
-include-in-other-pages-list: true
+hero-slogan: 'Hier kan ook een tekstje staan, hoeft niet'
 include-in-menu: true
+include-in-other-pages-list: true
 ---
-![](/uploads/thumbnail_20190917_190719_1568740072185_resized.jpg)
+![Praktijk Kiann kindercoaching](/uploads/thumbnail_20190917_190719_1568740072185_resized.jpg)
 
 # Praktische informatie & Tarieven
 
@@ -17,13 +20,13 @@ Coachingsessies vinden plaats op vrijdag in mijn praktijk in het Gezondheidscent
 ## Contactgegevens:
 
 Kiann Kindercoaching & Opvoedondersteuning
-Waterviolier 1, 9613 BH Meerstad (Gezondheidscentrum Meerstad)
+Waterviolier 1, 9613 BH Meerstad - Groningen (Gezondheidscentrum Meerstad)
 info@kiannkindercoaching.nl
 Tel: 06-13183955
 
-Het tarief voor een eerste coaching gesprek is €55 incl. btw. Vervolggesprekken zijn €45 incl. btw. Een sessie duurt 50 à 60 minuten
+Het tarief voor een eerste coaching gesprek is €55. Vervolggesprekken zijn €45. Een sessie duurt 50 à 60 minuten
 
-Het tarief voor de Training ‘Ik leer leren’ training van 5 bijeenkomsten van 1 ½ uur is individueel €297,50 en €195 voor de groepstraining. Deze bedragen zijn inclusief werkboek en btw.
+Het tarief voor de Training ‘Ik leer leren’ training van 5 bijeenkomsten van 1 ½ uur is individueel €297,50 en €195 voor de groepstraining. Deze bedragen zijn inclusief het werkboek.
 
 U ontvangt na elke sessie een factuur per mail.
 
@@ -36,5 +39,5 @@ U ontvangt na elke sessie een factuur per mail.
 * Je mag van mij een verplichting tot inspanning verwachten. Dit betekent dat ik alle kennis, ervaring, vakkundigheid en professionaliteit zal inzetten. Je bent zelf verantwoordelijk voor het behaalde resultaat ter verbetering. Keuzes en beslissingen die je neemt voor jezelf en je kind zijn altijd je eigen verantwoordelijkheid.
 * Ik ben geen gesprekpartner van derden. Dit betekent dat er geen overleg met ex-partners, scholen, artsen en anderen plaatsvindt. Zo nodig ondersteun ik jou en je kind in het voorbereiden van gesprekken met derden.
 * Heb je een vraag of een klacht, neem dan contact op zodat een oplossing gevonden kan worden. Lukt het niet dit samen op te lossen dan mediatie worden ingeschakeld waarvoor we de kosten zullen delen.
-* Ik ga vertrouwelijk met uw persoonsgegevens om volgens de wet AVG. Mijn privacy beleid kunt u inzien in mijn praktijk.
+* Ik ga vertrouwelijk met uw persoonsgegevens om volgens de wet AVG.
 * De coaching gesprekken zijn vertrouwelijk. Mochten er echter signalen zijn die de veiligheid van jou en of je kind in gevaar brengen, dan zal ik dit bespreken met derden (familie, school, AMK). Dit wordt altijd eerst met jou besproken en is conform de wettelijke meldcode huiselijk geweld en kindermishandeling.
