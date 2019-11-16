@@ -1,12 +1,15 @@
 ---
 layout: default
-title: Scheiding
-title-tag: Scheiding
-description: Lorem ipsum
-permalink: /scheiding
+title: (Echt)Scheiding
+title-tag: (Echt)scheiding en kind - Kiann Kindercoaching
+description: >-
+  Een scheiding heeft grote gevolgen voor alle gezinsleden. Door je eigen
+  emoties raak je soms de grip op de situatie omtrent je kind(eren) kwijt.
+permalink: www.kiannkindercoaching.nl - (Echt)scheiding
 hero-image: /uploads/adobestock_249086908.jpeg
-include-in-other-pages-list: true
+hero-slogan: je kind centraal zetten
 include-in-menu: true
+include-in-other-pages-list: true
 ---
 # Scheiding
 
