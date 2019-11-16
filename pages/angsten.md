@@ -1,6 +1,6 @@
 ---
 layout: default
-title: (Faal)angst bij kinderen - Kiann kindercoaching
+title: '(Faal)angst bij kinderen '
 title-tag: www.kiannkindercoaching/(faal)angst - perfectionisme
 description: >-
   Ondersteuning voor kinderen wanneer ze zelf last ervaren door alles goed te
