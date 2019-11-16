@@ -4,16 +4,16 @@ title: (Faal)angst bij kinderen - Kiann kindercoaching
 title-tag: www.kiannkindercoaching/(faal)angst - perfectionisme
 description: >-
   Ondersteuning voor kinderen wanneer ze zelf last ervaren door alles goed te
-  willen doen, hun eigen te hoog leggen en er niet aan kunnen voldoen.
+  willen doen, hun eigen lat te hoog leggen en er niet aan kunnen voldoen.
 permalink: www.kiannkindercoaching.nl/(faal)angst
-hero-image: /uploads/fullsizerender-14-.jpg
+hero-image: ''
 include-in-menu: true
 include-in-other-pages-list: true
 ---
-# Angsten, dwanghandelingen, faalangst, zelfvertrouwen en weerbaarheid
+# (Faal)angst
 
-## Bovenstaande problemen kunnen apart voorkomen, maar zie ik ook vaak in combinaties.
+## Wanneer kinderen zelf last ervaren en moeite hebben wanneer ze niet goed genoeg presteren voor henzelf leggen ze eigenlijk hun lat te hoog.
 
-Door samen in gesprek te gaan en te onderzoeken waar je kind ‘last’ van heeft krijgen jullie meer inzicht en kunnen we kijken wat nodig is om verbetering te krijgen. D.m.v. gesprekken, oefeningen en spelvormen kan ik kinderen en pubers ondersteunen het vertrouwen in henzelf te vergroten, inzicht te krijgen in hun angsten en of dwanghandelingen en handvaten geven hoe er mee om te gaan.
+Ook kunnen kinderen (tijdelijk) last hebben van diverse angsten. Angst voor bepaalde dieren, gebeurtenissen of mensen. Vaak ligt er een andere oozaken onder deze angsten.
 
-![](/uploads/fullsizerender-14-.jpg)
+Door de juiste begeleiding en inzichten te krijgen kan zowel faalangst als andere angsten reduceren of zelfs verdwijnen.
