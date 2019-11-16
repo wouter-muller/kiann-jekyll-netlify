@@ -19,7 +19,7 @@ Samen onderzoeken we jullie situatie en de onderliggende oorzaken om het zo te v
 
 Wat verteld je kind je eigenlijk? Op welk moment gaat het mis? Hoe ga je om met de boze buien van je kind? Wat heeft je kind van jou nodig en waar trek je de grens? Allemaal vragen die aan bod komen om inzicht te krijgen in jullie proces en waar verandering ingezet kan worden.
 
-![Uit de massa naar voren komen](/uploads/adobestock_249086908.jpeg)
+![Uit de massa naar voren komen Kiann Kindercoaching](/uploads/adobestock_249086908.jpeg)
 
 ## Ervaring ouder
 
