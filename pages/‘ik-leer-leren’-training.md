@@ -21,4 +21,4 @@ In de training coach ik de kinderen individueel extra op vlakken waar ze vastlop
 
 De training bestaat uit 5 bijeenkomsten van 1 ½ uur en kan zowel individueel als in groepsverband gevolgd worden.
 
-![Ik leer leren training](/uploads/wegwijzer-gecertificeerd.jpg)
+![Ik leer leren training Kiann kindercoaching](/uploads/wegwijzer-gecertificeerd.jpg)
