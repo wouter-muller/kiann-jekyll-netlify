@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Angst etc blah
-title-tag: 'Angsten, dwanghandelingen, faalangst, zelfvertrouwen en weerbaarheid'
+title: (Faal)angst bij kinderen - Kiann kindercoaching
+title-tag: www.kiannkindercoaching/(faal)angst - perfectionisme
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia molestiae
-  molestias hic accusamus consequuntur, fugiat eum vero nam adipisci quibusdam
-  deserunt similique placeat animi, veniam sed. Rem debitis, alias aliquid.
-permalink: /angst
+  Ondersteuning voor kinderen wanneer ze zelf last ervaren door alles goed te
+  willen doen, hun eigen te hoog leggen en er niet aan kunnen voldoen.
+permalink: www.kiannkindercoaching.nl/(faal)angst
+hero-image: /uploads/fullsizerender-14-.jpg
 include-in-menu: true
 include-in-other-pages-list: true
 ---
