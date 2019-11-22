@@ -23,7 +23,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title (voor in menu)", name: "title", widget: "string"}
       - {label: "Title tag (belangrijk voor google)", name: "title-tag", widget: "string"}
       - {label: "Description", name: "description", widget: "text", required: false}
-      - {label: "URL (het deel achter https://kiannkindercoaching.nl/)", name: "permalink", widget: "string"}
+      - {label: "URL (het deel achter https://kiannkindercoaching.nl/) (alleen letters, nummers en min tekens toegestaan)", name: "permalink", widget: "string"}
       - {label: "Grote foto bovenaan", name: "hero-image", widget: "image", required: false}
       - {label: "Tekst over de grote foto heen", name: "hero-slogan", widget: "string", required: false}
       - {label: "In menu tonen?", name: "include-in-menu", widget: "boolean", required: false}
@@ -41,5 +41,5 @@ collections: # A list of collections the CMS should be able to edit
     fields: # The fields each document in this collection have
       - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "URL (het deel achter https://kiannkindercoaching.nl/)", name: "permalink", widget: "string"}
+      - {label: "URL (het deel achter https://kiannkindercoaching.nl/) (alleen letters, nummers en min tekens toegestaan)", name: "permalink", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
