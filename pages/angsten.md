@@ -6,7 +6,7 @@ description: >-
   Ondersteuning voor kinderen wanneer ze zelf last ervaren door alles goed te
   willen doen, hun eigen lat te hoog leggen en er niet aan kunnen voldoen.
 permalink: faalangst
-hero-image: ''
+hero-image:
 include-in-menu: true
 include-in-other-pages-list: true
 ---
