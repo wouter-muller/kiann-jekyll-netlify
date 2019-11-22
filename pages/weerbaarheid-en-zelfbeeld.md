@@ -5,7 +5,7 @@ title-tag: Weerbaarheid en zelfbeeld - Kiann Kindercoaching
 description: >-
   Voor jezelf opkomen, je grens aangeven, je mening durven uiten en positief
   over jezelf denken helpt je om een evenwichtig persoon te zijn.
-permalink: www.Kiann kindercoaching.nl - Weerbaarheid en zelfbeeld
+permalink: weerbaarheid-en-zelfbeeld
 include-in-menu: true
 include-in-other-pages-list: true
 ---

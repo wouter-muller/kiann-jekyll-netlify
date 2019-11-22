@@ -5,7 +5,7 @@ title-tag: Contact -  Kiann kindercoaching
 description: >-
   Heb je een vraag? Mail mij gerust via het contactformulier hieronder. Je vindt
   op deze pagina ook de contact- en adresgegevens en tarieven.
-permalink: www.Kiann kindercoaching.nl - Contact
+permalink: contact
 hero-image: /uploads/annelies-hofstee_kiann_lsfotografie-1.jpg
 hero-slogan: 'Hier kan ook een tekstje staan, hoeft niet'
 include-in-menu: true

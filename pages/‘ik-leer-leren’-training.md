@@ -5,7 +5,7 @@ title-tag: '''Ik Leer Leren'' - ''Plannen en uitvoeren'' - Kiann kindercoaching'
 description: >-
   In de 'Ik leer leren training' leren kinderen HOE ze moeten leren. Ook is er
   een workshop over Plannen en uitvoeren wat voor veel tieners lastig is.
-permalink: www.Kiannkindercoaching - 'Ik leer leren training' - 'Plannen en uitvoeren'
+permalink: ik-leer-leren-training
 include-in-menu: true
 include-in-other-pages-list: true
 ---

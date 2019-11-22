@@ -6,8 +6,7 @@ description: >+
   Privacybeleid, Kiann Kindercoaching & Opvoedondersteuning gevestigd aan
   Waterviolier 1, 9613 BH Meerstad, is verantwoordelijk voor de verwerking van
   persoonsgegevens zoals weergegeven in deze privacyverklaring.
-
-permalink: www.Kiann kindercoaching.nl /privacy-policy
+permalink: privacy-policy
 include-in-menu: true
 include-in-other-pages-list: true
 ---

@@ -5,7 +5,7 @@ title-tag: (Echt)scheiding en kind - Kiann Kindercoaching
 description: >-
   Een scheiding heeft grote gevolgen voor alle gezinsleden. Door je eigen
   emoties raak je soms de grip op de situatie omtrent je kind(eren) kwijt.
-permalink: www.kiannkindercoaching.nl - (Echt)scheiding
+permalink: echtscheiding
 hero-image: /uploads/adobestock_249086908.jpeg
 hero-slogan: je kind centraal zetten Kiann kindercoaching
 include-in-menu: true
