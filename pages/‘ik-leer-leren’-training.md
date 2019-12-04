@@ -6,7 +6,7 @@ description: >-
   In de 'Ik leer leren training' leren kinderen HOE ze moeten leren. Ook is er
   een workshop over Plannen en uitvoeren wat voor veel tieners lastig is.
 permalink: ik-leer-leren-training
-hero-image: /uploads/78122429_2824047657613629_8536968243556909056_o.jpg
+hero-image: ''
 include-in-menu: true
 include-in-other-pages-list: true
 ---
@@ -21,6 +21,8 @@ De training is geschikt voor kinderen vanaf het moment dat ze met huiswerk te ma
 In de training coach ik de kinderen individueel extra op vlakken waar ze vastlopen en waarmee ze moeite hebben.
 
 De training bestaat uit 5 bijeenkomsten van 1 ½ uur en kan zowel individueel als in groepsverband gevolgd worden.
+
+![](/uploads/78122429_2824047657613629_8536968243556909056_o.jpg)
 
 ## Workshop 'Plannen en Uitvoeren' voor tieners.
 
