@@ -14,3 +14,5 @@ Heb je het idee dat je kind bepaalde rituelen ontwikkelt die zodanig zijn dat ze
 Dwanghandelingen en dwanggedachten zijn vaak een houvast voor het kind op iets waar het op een ander vlak geen controle over heeft. D.m.v. de dwanghandelingen of dwanggedachten proberen ze onbewust in ieder geval ergens controle over te krijgen.
 
 Dwanghandelingen en gedachten kunnen zich op diverse manieren uiten, zoals bepaalde dingen vaak controleren, dingetjes altijd rechtleggen en zetten, dingen bepaalde keren aanraken, tellen, handelingen of gedachten herhaaldelijk uitvoeren etc.
+
+![](/uploads/kluwen-poppetjes.png)
