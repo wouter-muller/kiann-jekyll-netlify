@@ -5,7 +5,7 @@ title-tag: Hooggevoeligheid HSK- hoogsensitief- Kiann kindercoaching
 description: >-
   Door hoogsensitieve kinderen de juiste begeleiding in hun opvoeding en op
   school te bieden helpt het hen op te groeien tot evenwichtige personen.
-permalink: www.Kiannkindercoaching.nl-Hoogevoeligheid-HSK-Temperamentvol kind
+permalink: Hoogevoeligheid-Hoogsensitiviteit-Temperamentvol-kind
 include-in-menu: true
 include-in-other-pages-list: true
 ---
