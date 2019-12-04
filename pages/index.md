@@ -27,8 +27,8 @@ Vaak zijn 1 tot 5 afspraken voldoende om samen processen te onderzoeken en voldo
 
 ## Mijn opleidingen:
 
-- SPW (sociaal pedagogisch werker)
-- Pedagogisch coach bij Fontys hogescholen Utrecht
-- Bij Centrum Tea Adema de modules; Basisopleiding kindercoach, pubercoach en opvoedcoach, Oplossingsgericht werken, Systemisch en contextueel werken, de vervolgopleiding opvoedcoach en Trainer 'Ik Leer Leren.
-- Een 2-daags seminar 'Kind in bakans' door Ingrid Dykstra (Duitsland)
-- Specialisatie hooggevoeligheid.
+* SPW (sociaal pedagogisch werker)
+* Pedagogisch coach bij Fontys hogescholen Utrecht
+* Bij Centrum Tea Adema de modules; Basisopleiding kindercoach, pubercoach en opvoedcoach, Oplossingsgericht werken, Systemisch en contextueel werken, de vervolgopleiding Opvoedcoach en Trainer 'Ik Leer Leren.
+* Een 2-daags seminar 'Kind in bakans' door Ingrid Dykstra (Duitsland)
+* Specialisatie hooggevoeligheid.
