@@ -11,8 +11,6 @@ hero-slogan: 'Hier kan ook een tekstje staan, hoeft niet'
 include-in-menu: true
 include-in-other-pages-list: true
 ---
-![Praktijk Kiann kindercoaching](/uploads/thumbnail_20190917_190719_1568740072185_resized.jpg)
-
 # Praktische informatie & Tarieven
 
 Coachingsessies vinden plaats op vrijdag in mijn praktijk in het Gezondheidscentrum in Meerstad (Groningen) met parkeerruimte voor de deur. Omgeven door natuur, ruimte en rust. Op verzoek kom ik thuis langs op woensdag.
@@ -23,6 +21,8 @@ Kiann Kindercoaching & Opvoedondersteuning
 Waterviolier 1, 9613 BH Meerstad - Groningen (Gezondheidscentrum Meerstad)
 info@kiannkindercoaching.nl
 Tel: 06-13183955
+
+![](/uploads/thumbnail_20190917_190719_1568740072185_resized.jpg)
 
 Het tarief voor een eerste coaching gesprek is €55. Vervolggesprekken zijn €45. Een sessie duurt 50 à 60 minuten
 
