@@ -9,12 +9,12 @@ permalink: faalangst
 include-in-menu: true
 include-in-other-pages-list: true
 ---
-# (Faal)angst
+## Faalangst en andere angsten
 
-## Is je kind terecht gekomen in een vicieuze cirkel, doordat stress en angst zo aanwezig zijn om niet goed genoeg te zijn of te willen streven naar perfectionisme wat niet lukt? Dan kan het zijn dat je kind onder zijn kunnen gaat presteren. 
+## Is je kind terecht gekomen in een vicieuze cirkel, doordat de stress en angst zo aanwezig zijn om niet goed genoeg te zijn? Of streeft je kind naar perfectionisme wat niet lukt en is het nooit tevreden over zijn eigen presteren?
 
-Je kind kan onzeker worden, uitstelgedrag vertonen, last hebben van slapeloosheid, hartkloppingen of black-outs. 
+Dan kan het zijn dat je kind onzeker wordt, onder zijn kunnen gaat presteren of uitstelgedrag vertoond. Je kind kan o.a. last hebben van slapeloosheid, hartkloppingen of black-outs. 
 
-Heeft je kind (tijdelijk) last van diverse angsten. Angst voor bepaalde dieren, gebeurtenissen of mensen. Vaak ligt er een andere oorzaken onder deze angsten.
+Heeft je kind (tijdelijk) last van diverse angsten? Angst voor bepaalde dieren, gebeurtenissen of mensen. Vaak ligt er een andere oorzaken onder deze angsten.
 
 Samen onderzoek ik met jullie wat het werkelijke onderliggende probleem is en wat nodig is om de faalangst of andere angst te reduceren of zelfs te laten verdwijnen.
