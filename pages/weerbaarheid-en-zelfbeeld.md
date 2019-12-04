@@ -1,12 +1,20 @@
 ---
 layout: default
-title: Weerbaarheid en zelfbeeld
-title-tag: Weerbaarheid en zelfbeeld - Kiann Kindercoaching
+title: Weerbaarheid en zelfvertrouwen
+title-tag: Weerbaarheid en zelfvertrouwen - Kiann Kindercoaching
 description: >-
   Voor jezelf opkomen, je grens aangeven, je mening durven uiten en positief
   over jezelf denken helpt je om een evenwichtig persoon te zijn.
-permalink: weerbaarheid-en-zelfbeeld
+permalink: weerbaarheid-en-zelfvertrouwen
 include-in-menu: true
 include-in-other-pages-list: true
 ---
-Wat wil je als ouder voor je kind en wat wil je kind zelf. Vanuit daar gaan we samen aan de slag om te kijken wat nodig en helpend is voor je kind. Ik ondersteun je kind om te leren steviger in z'n schoenen te staan en z'n grenzen te bewaken. Ook kan je kind leren om aan te geven wat hij ergens van vindt en wat hij wil.
+# Weerbaarheid en zelfvertrouwen
+
+## Merk je dat je kind wordt belemmerd doordat het moeite heeft om voor zichzelf op te komen? Of zie je dat je kind weinig vertrouwen in zichzelf heeft?
+
+
+
+Wat zou je kind anders willen? Vanuit daar gaan we samen aan de slag om te kijken wat nodig en helpend is. 
+
+Het kan zijn dat je kind wil leren om steviger in z'n schoenen te staan en duidelijker z'n grenzen aan durft te geven op een goede manier. Of je kind wil leren op een juiste manier en met respect voor de ander leren aangeven wat hij ergens van vindt en wat hij wil. Of je kind wil leren hoe het contact kan maken met andere kinderen om een vriendschap op te bouwen of bij een groepje betrokken te worden. Of jij als ouder wil graag dat je kind positiever over zichzelf gaat denken. Ik kan je kind hierin begeleiden.
