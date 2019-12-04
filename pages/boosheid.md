@@ -13,11 +13,11 @@ include-in-other-pages-list: true
 
 ## Boosheid, driftbuien en woedeaanvallen bij kinderen zijn een veelvoorkomend probleem.
 
-### De boze buien, driftbuien en woedeaanvallen kunnen diverse oorzaken hebben en vaak raak je als ouders de grip kwijt en kom je in een vicieuze cirkel terecht. Door kleine handvaten te geven kan er soms al een verandering ingezet worden.
+### De boze buien, driftbuien en woedeaanvallen kunnen diverse oorzaken hebben en vaak raak je als ouders de grip kwijt en kom je in een vicieuze cirkel terecht. Door kleine handvaten te krijgen kan er soms al een verandering ingezet worden.
 
-Samen onderzoeken we jullie situatie en de onderliggende oorzaken om het zo te veranderen naar een meer wenselijke situatie. Zowel voor jullie als ouders als voor je kind.
+Samen onderzoek ik met jullie de situatie en de onderliggende oorzaken om een verandering naar een meer wenselijke situatie te verkrijgen. Zowel voor jullie als ouders als voor je kind.
 
-Wat verteld je kind je eigenlijk? Op welk moment gaat het mis? Hoe ga je om met de boze buien van je kind? Wat heeft je kind van jou nodig en waar trek je de grens? Allemaal vragen die aan bod komen om inzicht te krijgen in jullie proces en waar verandering ingezet kan worden.
+Wat vertelt je kind je eigenlijk? Op welk moment gaat het mis? Hoe ga je om met de boze buien van je kind? Wat heeft je kind van jou nodig en waar trek je de grens? Allemaal vragen die aan bod komen om inzicht te krijgen in jullie proces en waar verandering ingezet kan worden.
 
 ![Uit de massa naar voren komen Kiann Kindercoaching](/uploads/adobestock_249086908.jpeg)
 
