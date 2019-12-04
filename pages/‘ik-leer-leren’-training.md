@@ -6,6 +6,7 @@ description: >-
   In de 'Ik leer leren training' leren kinderen HOE ze moeten leren. Ook is er
   een workshop over Plannen en uitvoeren wat voor veel tieners lastig is.
 permalink: ik-leer-leren-training
+hero-image: /uploads/78122429_2824047657613629_8536968243556909056_o.jpg
 include-in-menu: true
 include-in-other-pages-list: true
 ---
