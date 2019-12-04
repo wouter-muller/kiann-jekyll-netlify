@@ -6,7 +6,7 @@ description: >-
   Ondersteuning voor kinderen wanneer ze zelf last ervaren door alles goed te
   willen doen, hun eigen lat te hoog leggen en er niet aan kunnen voldoen.
 permalink: faalangst
-hero-image: /uploads/safe_image.jpg
+hero-image: ''
 include-in-menu: true
 include-in-other-pages-list: true
 ---
@@ -19,3 +19,5 @@ Dan kan het zijn dat je kind onzeker wordt, onder zijn kunnen gaat presteren of 
 Heeft je kind (tijdelijk) last van diverse angsten? Angst voor bepaalde dieren, gebeurtenissen of mensen. Vaak ligt er een andere oorzaken onder deze angsten.
 
 Samen onderzoek ik met jullie wat het werkelijke onderliggende probleem is en wat nodig is om de faalangst of andere angst te reduceren of zelfs te laten verdwijnen.
+
+![](/uploads/safe_image.jpg)
