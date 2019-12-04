@@ -21,12 +21,10 @@ In de training coach ik de kinderen individueel extra op vlakken waar ze vastlop
 
 De training bestaat uit 5 bijeenkomsten van 1 ½ uur en kan zowel individueel als in groepsverband gevolgd worden.
 
+## Workshop 'Plannen en Uitvoeren' voor tieners.
 
+In deze workshop leert je kind niet alleen een goede planning te maken, maar vooral ook hoe deze planning daadwerkelijk uit te voeren en afleidingen het hoofd te bieden. Bij deze workshop hoort een duidelijk werkboek en naslagwerk om nadien op terug te vallen als het moeilijk wordt.
 
-Workshop 'Plannen en Uitvoeren' voor tieners.
-
-In deze workshop leert je kind niet alleen een goede planning te maken, maar vooral ook hoe deze planning daadwerkelijk uit te voeren en afleidingen het hoofd te bieden. Bij deze workshop hoort een duidelijk werkboek en naslagwerk om nadien op terug te vallen als het moeilijk wordt.
-
-De workshop kan zowel individueel als in groepsverband gevolgd worden.
+De workshop kan zowel individueel als in groepsverband gevolgd worden.
 
 ![Ik leer leren training Kiann kindercoaching](/uploads/wegwijzer-gecertificeerd.jpg)
