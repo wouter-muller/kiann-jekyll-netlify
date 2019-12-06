@@ -10,7 +10,9 @@ hero-image: ''
 include-in-menu: true
 include-in-other-pages-list: true
 ---
-## Faalangst en andere angsten
+# Faalangst en andere angsten 
+
+![](/uploads/adobestock_249086908.jpeg)
 
 ## Is je kind terecht gekomen in een vicieuze cirkel, doordat de stress en angst zo aanwezig zijn om niet goed genoeg te zijn? Of streeft je kind naar perfectionisme wat niet lukt en is het nooit tevreden over zijn eigen presteren?
 
