@@ -6,7 +6,7 @@ description: >-
   In de 'Ik leer leren training' leren kinderen HOE ze moeten leren. Ook is er
   een workshop over Plannen en uitvoeren wat voor veel tieners lastig is.
 permalink: ik-leer-leren-training
-hero-image: ''
+hero-image: /uploads/wegwijzer-gecertificeerd.jpg
 include-in-menu: true
 include-in-other-pages-list: true
 ---
@@ -30,4 +30,4 @@ In deze workshop leert je kind niet alleen een goede planning te maken, maar voo
 
 De workshop kan zowel individueel als in groepsverband gevolgd worden.
 
-![Ik leer leren training Kiann kindercoaching](/uploads/wegwijzer-gecertificeerd.jpg)
+![Ik leer leren training Kiann kindercoaching](/uploads/74889327_2560880473995687_4412162908964782080_n.jpg)
