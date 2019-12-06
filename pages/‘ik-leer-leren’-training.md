@@ -22,7 +22,7 @@ In de training coach ik de kinderen individueel extra op vlakken waar ze vastlop
 
 De training bestaat uit 5 bijeenkomsten van 1 ½ uur en kan zowel individueel als in groepsverband gevolgd worden.
 
-![](/uploads/78122429_2824047657613629_8536968243556909056_o.jpg)
+![](/uploads/72641525_2560866780663723_2856940214402678784_o.jpg)
 
 ## Workshop 'Plannen en Uitvoeren' voor tieners.
 
