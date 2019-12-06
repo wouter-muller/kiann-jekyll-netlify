@@ -6,11 +6,13 @@ description: >-
   In de 'Ik leer leren training' leren kinderen HOE ze moeten leren. Ook is er
   een workshop over Plannen en uitvoeren wat voor veel tieners lastig is.
 permalink: ik-leer-leren-training
-hero-image: /uploads/wegwijzer-gecertificeerd.jpg
+hero-image: ''
 include-in-menu: true
 include-in-other-pages-list: true
 ---
 # ‘Ik Leer Leren’ Training
+
+![](/uploads/wegwijzer-gecertificeerd.jpg)
 
 ### Deze training is een training voor kinderen die handvatten geeft voor makkelijk en efficiënt leren. Hierbij wordt uitgegaan van al aanwezige kwaliteiten en ontdekken kinderen zelf wat werkt en hoe ze hun leerwerk optimaal kunnen plannen en uitvoeren.
 
