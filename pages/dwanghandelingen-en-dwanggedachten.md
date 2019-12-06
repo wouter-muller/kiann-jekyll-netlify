@@ -9,6 +9,8 @@ permalink: dwanghandelingen-en-dwanggedachten
 include-in-menu: true
 include-in-other-pages-list: true
 ---
+# `Dwanghandelingen en dwanggedachten`
+
 Heb je het idee dat je kind bepaalde rituelen ontwikkelt die zodanig zijn dat ze het dagelijkse functioneren gaan belemmeren? Dan is het belangrijk gauw hulp in te schakelen om te voorkomen dat het uit gaat groeien tot dwanghandelingen of dwanggedachten. Door er in een vroeg stadium aandacht aan te schenken is de kans veel groter om het onder controle te krijgen.
 
 Dwanghandelingen en dwanggedachten zijn vaak een houvast voor het kind op iets waar het op een ander vlak geen controle over heeft. D.m.v. de dwanghandelingen of dwanggedachten proberen ze onbewust in ieder geval ergens controle over te krijgen.
