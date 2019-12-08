@@ -14,7 +14,7 @@ include-in-other-pages-list: true
 
 ![](/uploads/wegwijzer-gecertificeerd.jpg)
 
-### Deze training is een training voor kinderen die handvatten geeft voor makkelijk en efficiënt leren. Hierbij wordt uitgegaan van al aanwezige kwaliteiten en ontdekken kinderen zelf wat werkt en hoe ze hun leerwerk optimaal kunnen plannen en uitvoeren.
+### Deze training geeft kinderen handvatten om  makkelijker en efficiënter  leren. Hierbij wordt uitgegaan van al aanwezige kwaliteiten en ontdekken kinderen zelf wat werkt en hoe ze hun leerwerk optimaal kunnen plannen en uitvoeren.
 
 Ondervindt jouw kind problemen met leren? Loopt het vast bij huiswerk en schooltaken? Het trainingsprogramma ‘Ik Leer Leren’ biedt uitkomst en helpt jouw kind om zelf te ontdekken welke manier van leren het beste voor hem of haar werkt en om daar gericht en gemotiveerd mee aan de slag te gaan.
 
