@@ -13,7 +13,7 @@ hero-slogan: Neem mijn hand aan op weg naar jouw doel!
 include-in-menu: true
 include-in-other-pages-list: false
 ---
-## Ik ben Annelies Hofstee.  vele jaren werk ik vol passie met kinderen vanaf 3 maand tot en met ers en hun ouders.
+## Ik ben Annelies Hofstee.  Al vele jaren werk ik vol passie met kinderen vanaf 3 maand tot en met  ers en hun ouders.
 
 Tijdens het proces van opgroeien en opvoeden kun je tegen diverse obstakels aanlopen waar je als ouder en/of kind in vastloopt. Met  ondersteuning help ik jullie graag weer op de goede weg.
 
