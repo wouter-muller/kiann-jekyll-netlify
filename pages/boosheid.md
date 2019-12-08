@@ -6,6 +6,8 @@ description: >
   Zit je als ouders met je kind in een visieuze cirkel als het gaat om boosheid
   en driftbuien? Weten wat je kind je verteld en nodig heeft is essentieel.
 permalink: boosheid-en-driftbuien
+hero-image: /uploads/kluwen-poppetjes.png
+hero-slogan: Leren omgaan met boosheid
 include-in-menu: true
 include-in-other-pages-list: true
 ---
@@ -18,8 +20,6 @@ include-in-other-pages-list: true
 Samen onderzoek ik met jullie de situatie en de onderliggende oorzaken om een verandering naar een meer wenselijke situatie te verkrijgen. Zowel voor jullie als ouders als voor je kind.
 
 Wat vertelt je kind je eigenlijk? Op welk moment gaat het mis? Hoe ga je om met de boze buien van je kind? Wat heeft je kind van jou nodig en waar trek je de grens? Allemaal vragen die aan bod komen om inzicht te krijgen in jullie proces en waar verandering ingezet kan worden.
-
-![Uit de massa naar voren komen Kiann Kindercoaching](/uploads/adobestock_249086908.jpeg)
 
 ## Ervaring ouder
 
