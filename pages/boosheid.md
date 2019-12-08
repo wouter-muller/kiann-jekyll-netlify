@@ -6,8 +6,8 @@ description: >
   Zit je als ouders met je kind in een visieuze cirkel als het gaat om boosheid
   en driftbuien? Weten wat je kind je verteld en nodig heeft is essentieel.
 permalink: boosheid-en-driftbuien
-hero-image: /uploads/kluwen-poppetjes.png
-hero-slogan: Leren omgaan met boosheid
+hero-image: ''
+hero-slogan: ''
 include-in-menu: true
 include-in-other-pages-list: true
 ---
@@ -16,6 +16,8 @@ include-in-other-pages-list: true
 ## Boosheid, driftbuien en woedeaanvallen bij kinderen zijn een veel voorkomend probleem.
 
 ### De boze buien, driftbuien en woedeaanvallen kunnen diverse oorzaken hebben en vaak raak je als ouders de grip kwijt en kom je samen in een vicieuze cirkel terecht. Door kleine handvaten te krijgen kan er soms al een verandering ingezet worden.
+
+![](/uploads/kluwen-poppetjes.png)
 
 Samen onderzoek ik met jullie de situatie en de onderliggende oorzaken om een verandering naar een meer wenselijke situatie te verkrijgen. Zowel voor jullie als ouders als voor je kind.
 
