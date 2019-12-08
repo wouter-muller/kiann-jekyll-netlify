@@ -7,7 +7,7 @@ description: >-
   emoties raak je soms de grip op de situatie omtrent je kind(eren) kwijt.
 permalink: echtscheiding
 hero-image: /uploads/adobestock_249086908.jpeg
-hero-slogan: je kind centraal zetten Kiann kindercoaching
+hero-slogan: je kind centraal zetten
 include-in-menu: true
 include-in-other-pages-list: true
 ---
