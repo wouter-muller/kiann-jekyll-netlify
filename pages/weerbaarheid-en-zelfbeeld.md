@@ -7,7 +7,7 @@ description: >-
   over jezelf denken helpt je om een evenwichtig persoon te zijn.
 permalink: weerbaarheid-en-zelfvertrouwen
 hero-image: ''
-include-in-menu: true
+include-in-menu: false
 include-in-other-pages-list: true
 ---
 # Weerbaarheid en zelfvertrouwen
