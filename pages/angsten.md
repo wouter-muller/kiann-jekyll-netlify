@@ -6,13 +6,12 @@ description: >-
   Ondersteuning voor kinderen wanneer ze zelf last ervaren door alles goed te
   willen doen, hun eigen lat te hoog leggen en er niet aan kunnen voldoen.
 permalink: faalangst
-hero-image: ''
+hero-image: /uploads/adobestock_249086908.jpeg
+hero-slogan: Ik mag er zijn!
 include-in-menu: true
 include-in-other-pages-list: true
 ---
-# Faalangst en andere angsten 
-
-![](/uploads/adobestock_249086908.jpeg)
+# Faalangst en andere angsten
 
 ## Is je kind terecht gekomen in een vicieuze cirkel, doordat de stress en angst zo aanwezig zijn om niet goed genoeg te zijn? Of streeft je kind naar perfectionisme wat niet lukt en is het nooit tevreden over zijn eigen presteren?
 
