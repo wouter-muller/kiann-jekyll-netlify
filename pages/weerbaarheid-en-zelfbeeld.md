@@ -6,11 +6,13 @@ description: >-
   Voor jezelf opkomen, je grens aangeven, je mening durven uiten en positief
   over jezelf denken helpt je om een evenwichtig persoon te zijn.
 permalink: weerbaarheid-en-zelfvertrouwen
-hero-image: /uploads/fullsizerender-14-.jpg
+hero-image: ''
 include-in-menu: true
 include-in-other-pages-list: true
 ---
 # Weerbaarheid en zelfvertrouwen
+
+![](/uploads/fullsizerender-14-.jpg)
 
 ## Merk je dat je kind wordt belemmerd doordat het moeite heeft om voor zichzelf op te komen? Of zie je dat je kind weinig vertrouwen in zichzelf heeft?
 
