@@ -11,9 +11,9 @@ include-in-other-pages-list: true
 ---
 # Boosheid
 
-## Boosheid, driftbuien en woedeaanvallen bij kinderen zijn een veelvoorkomend probleem.
+## Boosheid, driftbuien en woedeaanvallen bij kinderen zijn een veel voorkomend probleem.
 
-### De boze buien, driftbuien en woedeaanvallen kunnen diverse oorzaken hebben en vaak raak je als ouders de grip kwijt en kom je in een vicieuze cirkel terecht. Door kleine handvaten te krijgen kan er soms al een verandering ingezet worden.
+### De boze buien, driftbuien en woedeaanvallen kunnen diverse oorzaken hebben en vaak raak je als ouders de grip kwijt en kom je samen in een vicieuze cirkel terecht. Door kleine handvaten te krijgen kan er soms al een verandering ingezet worden.
 
 Samen onderzoek ik met jullie de situatie en de onderliggende oorzaken om een verandering naar een meer wenselijke situatie te verkrijgen. Zowel voor jullie als ouders als voor je kind.
 
