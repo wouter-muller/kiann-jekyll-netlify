@@ -17,15 +17,15 @@ include-in-other-pages-list: true
 
 ![hoogsensitief kind heeft tijd nodig om informatie te verwerken-Kiann kindercaoching](/uploads/kluwen-poppetjes.png "Als het kind krotsluiting heeft moeten wij aansluiting zoeken-Kiann kindercoaching")
 
-Hooggevoellig ben je al vanaf je geboorte, met alle bijbehorende mooie eigenschappen. Elk hooggevoelig kind/persoon is weer anders. Je kind kan tegen obstakels aanlopen op school, op  ndere plekken buitenshuis en ook thuis. Voorbeelden hiervan zijn; de drukte en snelheid van de wereld om hem heen, veranderingen en onrechtvaardigheid waar je kind mee te maken krijgt, z'n volhardendheid, het zich ‘anders’ voelen, moeite hebben met concentreren door alle prikkels om zich heen, overspoeld raken en blokkeren of uitbarsten in woede en moeite in slaap te komen.
+Hooggevoellig ben je al vanaf je geboorte, met alle bijbehorende mooie eigenschappen. Elk hooggevoelig kind/persoon is weer anders. Merk je dat je kind hooggevoelig is en tegen obstakels aanloopt op school, op  andere plekken buitenshuis of thuis, dan kan ik jullie begeleiden. Voorbeelden van obstakels zijn; de drukte en snelheid van de wereld om hen heen, veranderingen en onrechtvaardigheid waar je kind mee te maken krijgt, z'n volhardendheid, het zich ‘anders’ voelen, moeite hebben met concentreren door alle prikkels om zich heen, overspoeld raken en blokkeren of uitbarsten in woede en moeite in slaap te komen.
 
-Daarnaast kan je (hooggevoelige) kind een hele sterke eigen wil hebben en temperamentvol zijn, wat voor jullie als ouders best pittig kan zijn.
+Daarnaast kan je (hooggevoelige) kind een hele sterke eigen wil hebben en temperamentvol zijn, wat voor jullie als ouders best pittig kan zijn. Boos worden en straffen werkt vaak averechts. Ik kan jullie begeleiden in wat wel werkt voor je kind en jullie als ouders.
 
-Ook kan je kind hoogstimulitatief zijn, waarbij hooggevoeligheid samengaat met druk en emotioneel intens gedrag en uitdaging zoeken. Je kind is gevoelig, hulpvaardig, sociaal en spontaan, maar kan ook moeilijk te corrigeren zijn. Hij lijkt niet te willen luisteren en reageert met boze buien. Op school heeft hij moeite met concentreren, met stil zitten en verstoort hij nogal eens de les. 
+Ook kan je kind hoogstimulitatief zijn, waarbij hooggevoeligheid samengaat met druk en emotioneel intens gedrag en uitdaging zoeken. Je kind is gevoelig, hulpvaardig, sociaal en spontaan, maar zoekt ook de uitdaging op en kan moeilijk te corrigeren zijn. Hij lijkt niet te willen luisteren en reageert met boze buien. Op school heeft hij moeite met concentreren, met stil zitten en verstoort hij nogal eens de les. 
 
 Vaak beschikken deze kinderen nog niet over de vaardigheden om om te gaan met voor hun lastige situaties. Door deze samen te onderzoeken en te oefenen kunnen we zorgen dat het ongewenst gedrag vermindert en de kwaliteiten van hooggevoeligheid beter tot hun recht komen. 
 
-Voor je hooggevoelig kind is het van wezenlijk belangrijk hoe je als ouders en begeleiders (leidsters en leerkrachten) omgaat en reagereert op de werkelijkheid van hun ervaring.
+Voor je hooggevoelig kind is het van wezenlijk belangrijk hoe ouders en begeleiders (leidsters en leerkrachten reagereren op de werkelijkheid van de ervaring van het kind.
 
 ## Ervaring ouder
 
