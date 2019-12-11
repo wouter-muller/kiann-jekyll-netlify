@@ -8,7 +8,7 @@ description: >-
 permalink: faalangst
 hero-image: /uploads/adobestock_249086908.jpeg
 hero-slogan: ''
-include-in-menu: false
+include-in-menu: true
 include-in-other-pages-list: true
 ---
 # Faalangst en andere angsten
