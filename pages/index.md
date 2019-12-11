@@ -15,7 +15,7 @@ include-in-other-pages-list: false
 ---
 ## Ik ben Annelies Hofstee.  Al vele jaren werk ik vol passie met kinderen vanaf 3 maand tot en met  pubers en hun ouders.
 
-Tijdens het proces van opgroeien en opvoeden kun je tegen diverse obstakels aanlopen waar je als ouder en/of kind in vastloopt. Met  ondersteuning help ik jullie graag weer op de goede weg.
+Tijdens het proces van opgroeien en opvoeden kun je tegen diverse obstakels aanlopen waar je als ouder en/of kind in vastloopt. Ik help jullie graag weer op de goede weg.
 
 Mijn ervaring is dat elke situatie anders is aangezien elk kind, elke oudere en elke leef-omstandigheid verschillend is. Door samen inzicht te krijgen in jullie situatie kijken we wat een wenselijk doel is en wat daarvoor nodig en helpend is.
 
