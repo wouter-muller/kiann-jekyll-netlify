@@ -7,8 +7,8 @@ description: >-
   willen doen, hun eigen lat te hoog leggen en er niet aan kunnen voldoen.
 permalink: faalangst
 hero-image: /uploads/adobestock_249086908.jpeg
-hero-slogan: Ik mag er zijn!
-include-in-menu: true
+hero-slogan: ''
+include-in-menu: false
 include-in-other-pages-list: true
 ---
 # Faalangst en andere angsten
