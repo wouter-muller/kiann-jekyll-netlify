@@ -15,7 +15,7 @@ include-in-other-pages-list: true
 
 ### 
 
-![hoogsensitief kind heeft tijd nodig om informatie te verwerken-Kiann kindercaoching](/uploads/kluwen-poppetjes.png "Als het kind krotsluiting heeft moeten wij aansluiting zoeken-Kiann kindercoaching")
+![hoogsensitief kind heeft tijd nodig om informatie te verwerken-Kiann kindercaoching](/uploads/kluwen-poppetjes.png "Als het kind kortsluiting heeft moet jij aansluiting zoeken-Kiann kindercoaching")
 
 Hooggevoellig ben je al vanaf je geboorte, met alle bijbehorende mooie eigenschappen. Elk hooggevoelig kind/persoon is weer anders. Merk je dat je kind hooggevoelig is en tegen obstakels aanloopt op school, op  andere plekken buitenshuis of thuis, dan kan ik jullie begeleiden. Voorbeelden van obstakels zijn; de drukte en snelheid van de wereld om hen heen, veranderingen en onrechtvaardigheid waar je kind mee te maken krijgt, z'n volhardendheid, het zich ‘anders’ voelen, moeite hebben met concentreren door alle prikkels om zich heen, overspoeld raken en blokkeren of uitbarsten in woede en moeite in slaap te komen.
 
