@@ -8,7 +8,7 @@ description: >
 permalink: boosheid-en-driftbuien
 hero-image: ''
 hero-slogan: ''
-include-in-menu: false
+include-in-menu: true
 include-in-other-pages-list: true
 ---
 # Boosheid
