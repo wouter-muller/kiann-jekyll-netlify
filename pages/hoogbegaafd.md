@@ -11,11 +11,11 @@ include-in-other-pages-list: true
 ---
 # Hooggevoelige (sensitieve), hoogstimultatieve en temperamentvolle kinderen met een sterke eigen wil
 
-![Van overspoeld zijn naar ontlading...](/uploads/kluwen-poppetjes.png)
-
 ## Een groot aantal kinderen is gevoelig tot hooggevoelig. Tegenwoordig hoor je er meer over maar ook vroeger bestond het. Door de steeds meer eisende maatschappij komt het meer naar boven.
 
 ### 
+
+![hoogsensitief kind heeft tijd nodig om informatie te verwerken-Kiann kindercaoching](/uploads/kluwen-poppetjes.png "Als het kind krotsluiting heeft moeten wij aansluiting zoeken-Kiann kindercoaching")
 
 Hooggevoellig ben je al vanaf je geboorte, met alle bijbehorende mooie eigenschappen. Elk hooggevoelig kind/persoon is weer anders. Je kind kan tegen obstakels aanlopen op school, op  ndere plekken buitenshuis en ook thuis. Voorbeelden hiervan zijn; de drukte en snelheid van de wereld om hem heen, veranderingen en onrechtvaardigheid waar je kind mee te maken krijgt, z'n volhardendheid, het zich ‘anders’ voelen, moeite hebben met concentreren door alle prikkels om zich heen, overspoeld raken en blokkeren of uitbarsten in woede en moeite in slaap te komen.
 
