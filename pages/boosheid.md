@@ -25,4 +25,4 @@ Wat vertelt je kind je eigenlijk? Op welk moment gaat het mis? Hoe ga je om met 
 
 ## Ervaring ouder
 
-_Door inzicht te krijgen van jou in de boze buien van onze dochter ben ik meer naar mijn rol als ouder gaan kijken. De boosheid komt nu veel minder vaak voor en vooral minder heftig door de tips die ik van jou heb gekregen. Dank!_
+_Door inzicht te krijgen van jou in de boze buien van onze dochter ben ik meer naar mijn rol als ouder gaan kijken. De boosheid komt nu veel minder vaak voor en vooral minder heftig door de tips die ik van jou heb gekregen. Heel fijn, dank!_
