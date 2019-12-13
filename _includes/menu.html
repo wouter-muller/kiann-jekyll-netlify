@@ -14,7 +14,7 @@
 
     {% for item in site.pages %}
         {% if item.include-in-other-pages-list == true %}
-            <a class="s-menu__link" href="{{ item.permalink }}">{{ item.title }}</a>
+            <a class="s-menu__link" href="/{{ item.permalink }}">{{ item.title }}</a>
         {% endif %}
     {% endfor %}
 </div>
