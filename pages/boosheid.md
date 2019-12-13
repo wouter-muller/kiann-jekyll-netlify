@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Boosheid en driftbuien
-title-tag: Boosheid en driftbuien - Kiann Kindercoaching
+title-tag: Boosheid en driftbuien
 description: >
   Zit je als ouders met je kind in een visieuze cirkel als het gaat om boosheid
   en driftbuien? Weten wat je kind je verteld en nodig heeft is essentieel.

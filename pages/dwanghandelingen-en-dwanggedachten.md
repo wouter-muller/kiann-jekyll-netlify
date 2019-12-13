@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Dwanghandelingen en dwanggedachten
-title-tag: Dwanghandelingen en dwanggedachten - Kiann kindercoaching
+title-tag: Dwanghandelingen en dwanggedachten
 description: >-
   Rituelen als dwanghandelingen of dwanggedachten zijn vaak een houvast van je
   kind op iets waar het op een ander vlak geen controle over heeft. 

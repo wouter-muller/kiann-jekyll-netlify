@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Home
-title-tag: Kindercoach met passie! in Groningen - Kiann  kindercoaching
+title-tag: Kindercoach met passie! in Groningen
 description: >+
   Ondersteuning voor hooggevoelig kind, sterke wil, boosheid, faal-angst, dwang,
   weerbaarheid, scheiding, Ik leer leren en Plannen-Kiann kindercoaching.

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Weerbaarheid en zelfvertrouwen
-title-tag: Weerbaarheid en zelfvertrouwen - Kiann Kindercoaching
+title-tag: Weerbaarheid en zelfvertrouwen
 description: >-
   Voor jezelf opkomen, je grens aangeven, je mening durven uiten en positief
   over jezelf denken helpt je om een evenwichtig persoon te zijn.
