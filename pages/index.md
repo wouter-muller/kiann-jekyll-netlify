@@ -27,5 +27,5 @@ Vaak zijn 1 tot 5 afspraken voldoende om samen processen te onderzoeken en voldo
 * SPW (sociaal pedagogisch werker)
 * Pedagogisch coach bij Fontys Hogescholen Utrecht
 * Bij Centrum Tea Adema de modules; Basisopleiding kindercoach, pubercoach en opvoedcoach, Oplossingsgericht werken, Systemisch en contextueel werken, de vervolgopleiding Opvoedcoach en Trainer 'Ik Leer Leren.
-* Een 2-daags seminar 'Kind in bakans' door Ingrid Dykstra (Duitsland)
+* Een 2-daags seminar 'Kind in balans' door Ingrid Dykstra (Duitsland)
 * Specialisatie hooggevoeligheid.
