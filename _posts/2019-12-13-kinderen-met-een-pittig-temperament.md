@@ -1,8 +1,8 @@
 ---
 layout: blog
 title: Kinderen met een pittig temperament
-permalink: 2019-12-13-Kinderen-met-een-pittig-temperament
-friendly-date: 13 december 2019
+permalink: 2019-12-10-Kinderen-met-een-pittig-temperament
+friendly-date: 10 december 2019
 image: /uploads/boos.jpg
 ---
 Kinderen met een pittig temperament zijn voor ouders en begeleiders best een uitdaging om op te voeden. Het kost veel energie. 
