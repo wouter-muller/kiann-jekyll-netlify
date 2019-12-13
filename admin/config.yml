@@ -39,7 +39,7 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: # The fields each document in this collection have
-      - {label: "Layout", name: "layout", widget: "hidden", default: "post"}
+      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "URL (het deel achter https://kiannkindercoaching.nl/) (alleen letters, nummers en min tekens toegestaan)", name: "permalink", widget: "string"}
       - {label: "Datum (voorbeeld: Woensdag 12 november 2019)", name: "friendly-date", widget: "string"}

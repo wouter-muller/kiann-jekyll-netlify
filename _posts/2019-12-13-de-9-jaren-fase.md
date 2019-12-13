@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: De 9-jaren fase
 permalink: 2019-12-13/de-9-jaren-fase
 ---
