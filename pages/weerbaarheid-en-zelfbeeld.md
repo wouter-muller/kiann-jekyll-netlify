@@ -10,9 +10,9 @@ hero-image: ''
 include-in-menu: true
 include-in-other-pages-list: true
 ---
-# Weerbaarheid en zelfvertrouwen
-
 ![](/uploads/fullsizerender-14-.jpg)
+
+# Weerbaarheid en zelfvertrouwen
 
 ## Merk je dat je kind wordt belemmerd doordat het moeite heeft om voor zichzelf op te komen? Of zie je dat je kind weinig vertrouwen in zichzelf heeft?
 
