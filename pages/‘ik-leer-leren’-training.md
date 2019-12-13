@@ -10,9 +10,9 @@ hero-image: ''
 include-in-menu: true
 include-in-other-pages-list: true
 ---
-# ‘Ik Leer Leren’ Training
-
 ![](/uploads/wegwijzer-gecertificeerd.jpg)
+
+# ‘Ik Leer Leren’ Training
 
 ## Deze training geeft kinderen handvatten om  makkelijker en efficiënter te leren. Hierbij wordt uitgegaan van al aanwezige kwaliteiten en ontdekken kinderen zelf wat werkt en HOE ze hun leerwerk optimaal kunnen plannen en uitvoeren.
 
