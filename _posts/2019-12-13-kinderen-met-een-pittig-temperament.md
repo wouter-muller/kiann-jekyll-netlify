@@ -1,7 +1,7 @@
 ---
 layout: blog
 title: Kinderen met een pittig temperament
-permalink: 2019-12-13-Kinderen-met-een-pittig-karakter
+permalink: 2019-12-13-Kinderen-met-een-pittig-temperament
 friendly-date: 13 december 2019
 image: /uploads/boos.jpg
 ---
