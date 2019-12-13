@@ -9,12 +9,6 @@ In deze fase spelen dingen als meidenvenijn, jongens die stoer doen, groepsdruk,
 
 In deze fase kunnen kinderen begeleiding gebruiken om hiermee om te leren gaan.
 
-
-
-Annelies Hofstee
-
-
-
 ![een foto van een moeder die haar 9 jarige dochter steunt-Kiann kindercoaching](/uploads/3.jpg "een foto van een moeder die haar 9 jarige dochter steunt-Kiann kindercoaching")
 
 ![]()
