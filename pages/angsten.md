@@ -6,14 +6,19 @@ description: >-
   Ondersteuning voor kinderen wanneer ze zelf last ervaren door alles goed te
   willen doen, hun eigen lat te hoog leggen en er niet aan kunnen voldoen.
 permalink: faalangst
-hero-image:
+hero-image: /uploads/adobestock_249086908.jpeg
+hero-slogan: ''
 include-in-menu: true
 include-in-other-pages-list: true
 ---
-# (Faal)angst
+# Faalangst en andere angsten
 
-## Wanneer kinderen zelf last ervaren en moeite hebben wanneer ze niet goed genoeg presteren voor henzelf leggen ze eigenlijk hun lat te hoog.
+## Is je kind terecht gekomen in een vicieuze cirkel, doordat de stress en angst zo aanwezig zijn om niet goed genoeg te zijn? Of streeft je kind naar perfectionisme wat niet lukt en is het nooit tevreden over zijn eigen presteren?
 
-Ook kunnen kinderen (tijdelijk) last hebben van diverse angsten. Angst voor bepaalde dieren, gebeurtenissen of mensen. Vaak ligt er een andere oorzaken onder deze angsten.
+Dan kan het zijn dat je kind onzeker wordt, onder zijn kunnen gaat presteren of uitstelgedrag vertoond. Je kind kan o.a. last hebben van slapeloosheid, hartkloppingen of black-outs. 
 
-Door de juiste begeleiding en inzichten te krijgen kunnen zowel faalangst als andere angsten reduceren of zelfs verdwijnen.
+Heeft je kind (tijdelijk) last van diverse angsten? Angst voor bepaalde dieren, gebeurtenissen of mensen. Vaak ligt er een andere oorzaken onder deze angsten.
+
+Samen onderzoek ik met jullie wat het werkelijke onderliggende probleem is en wat nodig is om de faalangst of andere angst te reduceren of zelfs te laten verdwijnen.
+
+![](/uploads/safe_image.jpg)
