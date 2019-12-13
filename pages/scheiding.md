@@ -15,7 +15,7 @@ include-in-other-pages-list: true
 
 ### Een scheiding heeft grote gevolgen voor het hele gezin. Soms raak je de grip en controle over de situatie wat kwijt door je eigen emoties en sta je als ouder te dicht bij je kind om het helpen.
 
-Voor je kind kan het fijn zijn om met iemand te praten over wat de scheiding met hem doet om zijn belevingen helder te krijgen. Vaak is het lastig om dit met jullie als ouders te doen, aangezien jullie te dicht bijstaan en hun loyaliteit meespeelt. Juist in een scheidingssituatie willen ze ‘onbewust’ jullie als ouders niet belasten met hun eigen gevoelens. Hierdoor zie je niet altijd echt hoe het met je kind gaat.
+Voor je kind kan het fijn zijn om met iemand te praten over wat de scheiding met hem doet om zijn belevingen helder te krijgen. Vaak is het lastig om dit met jullie als ouders te doen aangezien jullie te dicht bijstaan en hun loyaliteit meespeelt. Juist in een scheidingssituatie wil je kind ‘onbewust’ jullie als ouders niet belasten met zijn eigen gevoelens. Hierdoor zie je niet altijd echt hoe het met je kind gaat.
 
 Je kind kan ook jaren later de nodige impact voelen van een eerdere scheidingssituatie en dit op externe wijze uiten of intern voelen. Denk aan verminderde schoolresultaten, opgekropte gevoelens, gedragsveranderingen of zich afkeren van (een van) de ouders. De manier waarop kinderen na de scheidingssituatie van hun ouders mogen en kunnen blijven houden is belangrijk
 
