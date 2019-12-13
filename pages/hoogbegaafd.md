@@ -26,7 +26,7 @@ Ook kan je kind hoogstimulitatief zijn, waarbij hooggevoeligheid samengaat met d
 
 Vaak beschikken deze kinderen nog niet over de vaardigheden om om te gaan met voor hun lastige situaties. Door deze samen te onderzoeken en te oefenen kunnen we zorgen dat het ongewenst gedrag verminderd en de kwaliteiten van hooggevoeligheid beter tot hun recht komen.
 
-Voor je hooggevoelig kind is het van wezenlijk belangrijk hoe ouders en begeleiders (leidsters en leerkrachten reagereren op de werkelijkheid van de ervaring van het kind.
+Voor je hooggevoelig kind is het van wezenlijk belangrijk hoe ouders en begeleiders (leidsters en leerkrachten) reagereren op de werkelijkheid van de ervaring van het kind.
 
 ## Ervaring ouder
 
