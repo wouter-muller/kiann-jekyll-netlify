@@ -1,7 +1,7 @@
 <div class="s-other-blogs">
     <div class="l-wrapper">
         <h2 class="s-other-blogs__heading u-text-center">Meest recente blogs</h2>
-        <div class="s-other-blogs__grid">
+        <div class="s-other-blogs__grid u-mb+">
             {% assign current-post = page.title %}
 
             {% for other-blog in site.posts limit:3 %}
@@ -14,6 +14,11 @@
                     </a>
                 {% endunless %}
             {% endfor %}
+        </div>
+        <div class="u-text-center">
+            <a href="/blogs">
+                Bekijk alle blogs &gt;
+            </a>
         </div>
     </div>
 </div>
