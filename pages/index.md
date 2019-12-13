@@ -18,7 +18,7 @@ Tijdens het proces van opgroeien en opvoeden kun je tegen diverse obstakels aanl
 
 Mijn ervaring is dat elke situatie anders is aangezien elk kind, elke ouder en elke leef-omstandigheid verschillend is. Door samen inzicht te krijgen in jullie situatie kijken we wat een wenselijk doel is en wat daarvoor nodig en helpend is.
 
-Vaak zijn 1 tot 5 afspraken voldoende om samen processen te onderzoeken en voldoende inzicht vaardigheden en handvaten te krijgen om zelf verder te gaan.
+Vaak zijn 1 tot 5 afspraken voldoende om samen processen te onderzoeken en voldoende inzicht, vaardigheden en handvaten te krijgen om zelf verder te gaan.
 
 ![](/uploads/kluwen-poppetjes.png)
 
