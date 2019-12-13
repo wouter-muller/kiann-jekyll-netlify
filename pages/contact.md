@@ -26,7 +26,7 @@ Tel: 06-13183955
 
 Het tarief voor een eerste coaching gesprek is €55. Vervolggesprekken zijn €45. Een sessie duurt 50 à 60 minuten
 
-De  voor de Training ‘Ik leer leren’ training van 5 bijeenkomsten van 1 ½ uur is individueel €297,50 en €195 voor de groepstraining. Deze bedragen zijn inclusief het werkboek.
+De prijs van de Training ‘Ik leer leren’ training van 5 bijeenkomsten van 1 ½ uur is individueel €297,50 en €195 voor de groepstraining. Deze bedragen zijn inclusief het werkboek.
 
 De prijs voor de workshop 'Plannen en Uitvoeren' is €100 voor 2 bijeenkomsten van 1,5 uur, inclusief een mooi naslagwerk.
 
