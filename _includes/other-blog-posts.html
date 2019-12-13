@@ -1,0 +1,19 @@
+<div class="s-other-blogs">
+    <div class="l-wrapper">
+        <h2 class="s-other-blogs__heading u-text-center">Meest recente blogs</h2>
+        <div class="s-other-blogs__grid">
+            {% assign current-post = page.title %}
+
+            {% for other-blog in site.posts limit:3 %}
+                {% unless current-post == other-blog.title %}
+                    <a href="{{ other-blog.url }}" class="s-other-blogs__blog">
+                        <div class="s-other-blogs__image">
+                            <img src="{{ other-blog.image }}">
+                        </div>
+                        <h3 class="s-other-blogs__title">{{ other-blog.title }}</h3>
+                    </a>
+                {% endunless %}
+            {% endfor %}
+        </div>
+    </div>
+</div>

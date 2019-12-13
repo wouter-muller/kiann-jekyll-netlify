@@ -1,0 +1,39 @@
+.s-other-blogs
+	padding: 50px 0
+	background-color: #dfbc3e
+
+	&__heading
+		font-size: 29px
+		font-weight: $medium
+		margin-bottom: 30px
+		color: $dark-red
+
+	&__grid
+		display: grid 
+		grid-gap: 40px
+
+		+tablet-desktop
+			grid-template-columns: 1fr 1fr 1fr
+		
+
+		a
+			+box-shadow
+			background-color: white
+			padding: 20px
+			position: relative
+			display: block
+
+	&__image
+		height: 0
+		padding-top: 56%
+		position: relative
+		overflow: hidden
+		margin-bottom: 20px
+
+		img 
+			+center
+			display: block
+
+	&__title
+		font-weight: $medium
+		color: $dark-green

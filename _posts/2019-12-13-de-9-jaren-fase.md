@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: De 9-jaren fase
+title-tag: De 9-jaren fase
 permalink: 2019-12-13/de-9-jaren-fase
 friendly-date: vrijdag 13 december 2019
 image: /uploads/3.jpg

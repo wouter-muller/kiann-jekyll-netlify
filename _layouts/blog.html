@@ -18,11 +18,12 @@
                 {% if page.image %}
                     <img src="{{ page.image }}">
                 {% endif %}
-                
+
                 {{ content }}
-                }
             </div>
         </div>
+
+        {% include other-blog-posts.html %}
 
         <div class="s-other-pages">
             <div class="l-wrapper">
