@@ -33,11 +33,11 @@ De prijs voor de workshop 'Plannen en Uitvoeren' is €100 voor 2 bijeenkomsten 
 U ontvangt na elke sessie een factuur per mail.
 
 * Je kunt je kind en/of jezelf aanmelden via het aanmeldingsformulier onderaan deze pagina.
-* We stemmen vooraf af of we eerst met jou/jullie als ouder(s)  hulpvraag onderzoeken, of dat de eerste afspraak direct in het bijzijn van je kind plaatsvindt.
+* We stemmen vooraf af of we eerst met jou/jullie als ouder(s) de hulpvraag onderzoeken,of dat de eerste afspraak direct in het bijzijn van je kind plaatsvindt.
 * De praktijk wijst uit dat er na 1 tot 5 afspraken al veel veranderd. Aan het eind van iedere coaching bespreken we wat er nog meer nodig is en of een nieuwe afspraak wenselijk is.
 * Wilt u bij verhindering uw afspraak 24 uur van tevoren afmelden? Dit geeft mij nog de gelegenheid het plekje op te vullen. Dit is dan kosteloos. Wordt de afspraak later afgemeld of vergeten, dan ben ik genoodzaakt deze in rekening te brengen.
 * Het is mogelijk om coaching in te schakelen als uw kind een persoonsgebonden budget (PGB) ontvangt. Hiermee kunt u zelf zorg, hulp en begeleiding inkopen.
-* Wa andere hulp beter aansluit op jullie hulpvraag, dan   ik mijn best doen om jullie door te verwijzen naar een gekwalificeerde hulpverlener of instantie.
+* Wanneer andere hulp beter aansluit op jullie hulpvraag, dan zal ik mijn best doen om jullie door te verwijzen naar een gekwalificeerde hulpverlener of instantie.
 * Je mag van mij een verplichting tot inspanning verwachten. Dit betekent dat ik alle kennis, ervaring, vakkundigheid en professionaliteit zal inzetten. Je bent zelf verantwoordelijk voor het behaalde resultaat ter verbetering. Keuzes en beslissingen die je neemt voor jezelf en je kind zijn altijd je eigen verantwoordelijkheid.
 * Ik ben geen gesprekpartner van derden. Dit betekent dat er geen overleg met ex-partners, scholen, artsen en anderen plaatsvindt. Zo nodig ondersteun ik jou en je kind in het voorbereiden van gesprekken met derden.
 * Heb je een vraag of een klacht, neem dan contact op zodat een oplossing gevonden kan worden. Lukt het niet dit samen op te lossen dan  mediatie worden ingeschakeld waarvoor we de kosten zullen delen.
