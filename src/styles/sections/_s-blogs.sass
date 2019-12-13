@@ -1,14 +1,36 @@
 .s-blogs
+	padding: 50px 0
+	
+	&__heading
+		color: $dark-red
+
+	a
+		color: $red
+
 	&__blog
 		display: grid
 		grid-gap: 30px
 		+box-shadow
-		margin-bottom: 30px
 		padding: 20px
+		max-width: 700px
+		margin: 0 auto 30px auto
 
 		+tablet-desktop
 			grid-template-columns: 1fr 1fr
 
 	&__title
 		font-size: 29px
-		text-decoration: none !important
+		color: $turqoise
+
+	&__date
+		font-size: 14px
+		text-transform: uppercase
+		margin-bottom: 20px
+		color: #666
+
+	&__intro
+		font-size: 18px
+		margin-bottom: 20px
+
+	&__read-more-link
+		font-size: 24px

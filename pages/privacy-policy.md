@@ -7,8 +7,8 @@ description: >+
   Waterviolier 1, 9613 BH Meerstad, is verantwoordelijk voor de verwerking van
   persoonsgegevens zoals weergegeven in deze privacyverklaring.
 permalink: privacy-policy
-include-in-menu: true
-include-in-other-pages-list: true
+include-in-menu: false
+include-in-other-pages-list: false
 hero-image: ''
 ---
 Privacybeleid:

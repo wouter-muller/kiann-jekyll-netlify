@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blogs
 title: Blogs
 title-tag: Blogs - Kiann Kindercoaching & Opvoedondersteuning
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquam, perspiciatis fugiat corporis accusantium dolor quibusdam mollitia eaque est alias, quod cupiditate laudantium explicabo maiores quia doloremque tempora enim quo nesciunt!
@@ -8,9 +8,10 @@ include-in-other-pages-list: false
 include-in-menu: true
 hero-image: ''
 ---
-<h1>Blogs</h1>
 
 <div class="s-blogs">
+	<h1 class="s-blogs__heading u-text-center u-mb">Blogs</h1>
+	
 	{% for post in site.posts %}
 		<a class="s-blogs__blog" href="{{ post.permalink }}">
 			<div class="s-blogs__image">
@@ -21,9 +22,13 @@ hero-image: ''
 				<h2 class="s-blogs__title">
 					{{ post.title }}
 				</h2>
-				<p class="s-blogs__intro">
-					{{ post.excerpt }}Lees meer
+				<p class="s-blogs__date">
+					{{ post.friendly-date }}
 				</p>
+				<div class="s-blogs__intro">
+					{{ post.excerpt }}
+				</div>
+				<p class="s-blogs__read-more-link">Lees meer &gt;</p>
 			</div>
 		</a>
 	{% endfor %}
