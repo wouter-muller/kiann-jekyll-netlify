@@ -26,7 +26,7 @@ De training bestaat uit 5 bijeenkomsten van 1 ½ uur en kan zowel individueel al
 
 ![](/uploads/72641525_2560866780663723_2856940214402678784_o.jpg)
 
-## Workshop 'Plannen en Uitvoeren' voor tieners.
+# Workshop 'Plannen en Uitvoeren' voor tieners.
 
 In deze workshop leert je kind niet alleen een goede planning te maken, maar vooral ook hoe deze planning daadwerkelijk uit te voeren en afleidingen het hoofd te bieden. Bij deze workshop hoort een duidelijk werkboek en naslagwerk om nadien op terug te vallen als het moeilijk wordt.
 
