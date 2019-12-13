@@ -15,12 +15,14 @@ include-in-other-pages-list: true
 
 ### Een scheiding heeft grote gevolgen voor het hele gezin. Soms raak je de grip en controle over de situatie wat kwijt door je eigen emoties en sta je als ouder te dicht bij je kind om het helpen.
 
-Je kind is enorm loyaal naar beide ouders en juist in een scheidingssituatie willen ze ‘onbewust’ jullie als ouders niet belasten met hun eigen gevoelens. Hierdoor zie je niet altijd echt hoe het met je kind gaat.
+Voor je kind kan het fijn zijn om met iemand te praten over wat de scheiding met hem doet om zijn belevingen helder te krijgen. Vaak is het lastig om dit met jullie als ouders te doen, aangezien jullie te dicht bijstaan en hun loyaliteit meespeelt. Juist in een scheidingssituatie willen ze ‘onbewust’ jullie als ouders niet belasten met hun eigen gevoelens. Hierdoor zie je niet altijd echt hoe het met je kind gaat.
+
+Je kind kan ook jaren later de nodige impact voelen van een eerdere scheidingssituatie en dit op externe wijze uiten of intern voelen. Denk aan verminderde schoolresultaten, opgekropte gevoelens, gedragsveranderingen of zich afkeren van (een van) de ouders. De manier waarop kinderen na de scheidingssituatie van hun ouders mogen en kunnen blijven houden is belangrijk
 
 Ook voor jullie als ouders kan het fijn zijn als er iemand meedenkt in wat je juist wel en wat je juist niet moet doen als ouders zijnde in een scheidingssituatie om te voorkomen dat je je kind ongewild belast.
 
-Zitten jullie als ouders in een conflictsituatie dan is het heel belangrijk je kind(eren) hier buiten te houden en je erg bewust te zijn hoe je handelt in het bijzijn van je kind(eren). Dit om de voorkomen dat je kind(eren) schade oplopen.
+Zitten jullie als ouders in een conflictsituatie dan is het heel belangrijk je kind(eren) hierbuiten te houden en je erg bewust te zijn hoe je handelt in het bijzijn van je kind(eren). Dit om te voorkomen dat je kind(eren) schade oplopen.
 
-Ik kan jullie ondersteuning bieden met als doel de kinderen zo onbezorgd mogelijk kind te laten zijn.
+Ik kan jullie hierin ondersteuning bieden.
 
 Lees ook mijn blog over 'Wat doet een (vecht)scheiding met je kind [2019-12-13-wat-doet-een-(vecht)-scheiding-met-je-kind](2019-12-13-wat-doet-een-(vecht)-scheiding-met-je-kind)
