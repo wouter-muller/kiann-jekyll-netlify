@@ -8,6 +8,7 @@ description: >
 permalink: hoogevoeligheid-hoogsensitiviteit-temperamentvol-kind-sterke wil
 include-in-menu: true
 include-in-other-pages-list: true
+hero-image: ''
 ---
 # Hooggevoelige (sensitieve), hoogstimultatieve en temperamentvolle kinderen met een sterke eigen wil
 

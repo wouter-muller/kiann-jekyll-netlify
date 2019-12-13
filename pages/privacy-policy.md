@@ -9,6 +9,7 @@ description: >+
 permalink: privacy-policy
 include-in-menu: true
 include-in-other-pages-list: true
+hero-image: ''
 ---
 Privacybeleid:
 

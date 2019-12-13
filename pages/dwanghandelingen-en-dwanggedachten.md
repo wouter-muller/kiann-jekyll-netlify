@@ -8,6 +8,7 @@ description: >-
 permalink: dwanghandelingen-en-dwanggedachten
 include-in-menu: true
 include-in-other-pages-list: true
+hero-image: ''
 ---
 # Dwanghandelingen en dwanggedachten
 

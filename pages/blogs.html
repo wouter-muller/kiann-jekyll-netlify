@@ -10,8 +10,21 @@ hero-image: ''
 ---
 <h1>Blogs</h1>
 
-<h2>Hier komt een overzicht van alle blogs</h2>
+<div class="s-blogs">
+	{% for post in site.posts %}
+		<a class="s-blogs__blog" href="{{ post.permalink }}">
+			<div class="s-blogs__image">
+				<img src="{{ post.image }}">
+			</div>
 
-{% for post in site.posts %}
-    <a href="{{ post.permalink }}">{{ post.title }}</a><br>
-{% endfor %}
+			<div class="s-blogs__text">
+				<h2 class="s-blogs__title">
+					{{ post.title }}
+				</h2>
+				<p class="s-blogs__intro">
+					{{ post.excerpt }}Lees meer
+				</p>
+			</div>
+		</a>
+	{% endfor %}
+</div>
