@@ -1,0 +1,22 @@
+<div class="s-menu js-menu">
+    <button class="s-menu__close js-menu-close">
+        {% include svg/close.svg %}
+    </button>
+    <h2 class="s-menu__heading">Menu</h2>
+
+    <div class="u-mb">
+        <a class="s-menu__link" href="/">Home</a>
+        <a class="s-menu__link" href="/blogs">Blogs</a>
+        <a class="s-menu__link" href="/contact">Contact</a>
+    </div>
+
+    <h2 class="s-menu__heading">Pagina's</h2>
+
+    {% for item in site.pages %}
+        {% if item.include-in-other-pages-list == true %}
+            <a class="s-menu__link" href="{{ item.permalink }}">{{ item.title }}</a>
+        {% endif %}
+    {% endfor %}
+</div>
+
+<div class="s-menu__backdrop js-menu-backdrop"></div>

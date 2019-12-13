@@ -9,7 +9,7 @@ permalink: contact
 hero-image: /uploads/annelies-hofstee_kiann_lsfotografie-1.jpg
 hero-slogan: ''
 include-in-menu: true
-include-in-other-pages-list: true
+include-in-other-pages-list: false
 ---
 # Praktische informatie & Tarieven
 
