@@ -48,7 +48,7 @@ defaults:
       section: "post" # set the root section name
 
 # Build settings
-markdown: CommonMark
+markdown: Kramdown
 
 # Include in processing (e.g. Netlify directives)
 # Uncomment before use
