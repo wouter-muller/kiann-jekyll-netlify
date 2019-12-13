@@ -15,7 +15,12 @@
             </div>
 
             <div class="s-content">
+                {% if page.image %}
+                    <img src="{{ page.image }}">
+                {% endif %}
+                
                 {{ content }}
+                }
             </div>
         </div>
 
