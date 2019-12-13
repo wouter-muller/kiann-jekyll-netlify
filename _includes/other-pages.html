@@ -6,7 +6,7 @@
                 {% for other-page in site.pages %}
                     {% if other-page.include-in-other-pages-list == true %}
                         {% if other-page.permalink != page.permalink %}
-                            <li><a href="{{ other-page.permalink }}">{{ other-page.title }}</a></li>
+                            <li class="u-mb-"><a href="{{ other-page.permalink }}">{{ other-page.title }}</a></li>
                         {% endif %}
                     {% endif %}
                 {% endfor %}
