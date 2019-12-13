@@ -3,8 +3,8 @@ layout: default
 title: Contact- en adresgegevens & Tarieven
 title-tag: Contact -  Kiann kindercoaching
 description: >-
-  Heb je een vraag? Mail mij gerust via het contactformulier hieronder. Je vindt
-  op deze pagina ook de contact- en adresgegevens en tarieven.
+  Heb je een vraag? Neem gerust contact op via het contactformulier op deze
+  pagina  of via info@kiannkindercoaching.nl. Kindercoach Annelies Hofstee. 
 permalink: contact
 hero-image: /uploads/annelies-hofstee_kiann_lsfotografie-1.jpg
 hero-slogan: ''
