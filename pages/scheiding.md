@@ -22,3 +22,5 @@ Ook voor jullie als ouders kan het fijn zijn als er iemand meedenkt in wat je ju
 Zitten jullie als ouders in een conflictsituatie dan is het heel belangrijk je kind(eren) hier buiten te houden en je erg bewust te zijn hoe je handelt in het bijzijn van je kind(eren). Dit om de voorkomen dat je kind(eren) schade oplopen.
 
 Ik kan jullie ondersteuning bieden met als doel de kinderen zo onbezorgd mogelijk kind te laten zijn.
+
+Lees ook mijn blog over 'Wat doet een (vecht)scheiding met je kind [2019-12-13-wat-doet-een-(vecht)-scheiding-met-je-kind](2019-12-13-wat-doet-een-(vecht)-scheiding-met-je-kind)
