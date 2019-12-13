@@ -3,6 +3,7 @@ layout: blog
 title: Een voorbeeld blog over een onderwerp
 permalink: /een-voorbeeld-blog
 friendly-date: Woensdag 12 november 2019
+image: kjfgkfj
 ---
 
 ## Consectetur adipisicing elit
