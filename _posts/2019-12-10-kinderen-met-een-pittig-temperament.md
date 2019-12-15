@@ -21,5 +21,4 @@ Ik zie nogal eens ouders die twijfelen aan zichzelf, ‘doe ik het wel goed’. 
 
 Straffen en belonen werkt doorgaans niet bij deze kinderen. Ze kunnen heel lang volhouden of zoeken er iets achter (slim). Ze denken en voelen ‘anders’. Als je je kind leert begrijpen kun je je kind helpen en is er minder strijd, waardoor er weer meer ruimte is voor leuke dingen samen. Want…. je kind houdt dit karakter altijd, dus heeft het jou nodig ermee om te leren gaan. 
 
-Annelies
- Hofstee
+Annelies Hofstee
