@@ -31,5 +31,3 @@ _Na een aantal sessies waarbij zowel dochterlief als wij bij jou zijn geweest, h
 Ik vond de afgelopen periode best een zware tijd. Al met al gaat het nu heel goed. Heel fijn._
 
 Lees ook mijn blog [2019-12-10/kinderen-met-een-pittig-temperament](2019-12-10/kinderen-met-een-pittig-temperament)
-
-__
