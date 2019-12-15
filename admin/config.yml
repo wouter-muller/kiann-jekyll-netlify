@@ -9,9 +9,41 @@ media_folder: "_site/uploads" # Folder where user uploaded files should go
 public_folder: "/uploads"
 
 collections: # A list of collections the CMS should be able to edit
+  # CONTACT
+  - name: "contact"
+    label: "Hoofdpagina's"
+    editor:
+      preview: false
+    files:
+      - name: "home"
+        label: "Home"
+        file: "/pages/index.html"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Title (voor in menu)", name: "title", widget: "string"}
+          - {label: "Title (belangrijk voor google, wordt automatisch aangevuld met ' - Kiann Kindercoaching')", name: "title-tag", widget: "string"}
+          - {label: "Meta (belangrijk voor Google", name: "description", widget: "text", required: false}
+          - {label: "URL (het deel achter https://kiannkindercoaching.nl/) (alleen letters, nummers en min tekens toegestaan)", name: "permalink", widget: "hidden", default: '/'}
+          - {label: "Grote foto bovenaan", name: "hero-image", widget: "image", required: false}
+          - {label: "Tekst over de grote foto heen", name: "hero-slogan", widget: "string", required: false}
+          - {label: "In menu tonen?", name: "include-in-menu", widget: "boolean", required: false}
+          - {label: "Body", name: "body", widget: "markdown", required: false}         
+      - name: "contact"
+        label: "Contactpagina"
+        file: "/pages/contact.html"
+        fields:
+          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
+          - {label: "Title (voor in menu)", name: "title", widget: "string"}
+          - {label: "Title (belangrijk voor google, wordt automatisch aangevuld met ' - Kiann Kindercoaching')", name: "title-tag", widget: "string"}
+          - {label: "Meta (belangrijk voor Google", name: "description", widget: "text", required: false}
+          - {label: "URL (het deel achter https://kiannkindercoaching.nl/) (alleen letters, nummers en min tekens toegestaan)", name: "permalink", widget: "string"}
+          - {label: "Grote foto bovenaan", name: "hero-image", widget: "image", required: false}
+          - {label: "Tekst over de grote foto heen", name: "hero-slogan", widget: "string", required: false}
+          - {label: "In menu tonen?", name: "include-in-menu", widget: "boolean", required: false}
+          - {label: "Body", name: "body", widget: "markdown", required: false}     
     # HOOFD PAGES
   - name: "page"
-    label: "Page"
+    label: "Onderwerppagina's"
     folder: "pages"
     editor:
       preview: false
@@ -21,7 +53,7 @@ collections: # A list of collections the CMS should be able to edit
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
       - {label: "Title (voor in menu)", name: "title", widget: "string"}
-      - {label: "Title (belangrijk voor google)", name: "title-tag", widget: "string"}
+      - {label: "Title (belangrijk voor google, wordt automatisch aangevuld met ' - Kiann Kindercoaching')", name: "title-tag", widget: "string"}
       - {label: "Meta (belangrijk voor Google", name: "description", widget: "text", required: false}
       - {label: "URL (het deel achter https://kiannkindercoaching.nl/) (alleen letters, nummers en min tekens toegestaan)", name: "permalink", widget: "string"}
       - {label: "Grote foto bovenaan", name: "hero-image", widget: "image", required: false}
@@ -29,25 +61,6 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "In menu tonen?", name: "include-in-menu", widget: "boolean", required: false}
       - {label: "In Lees ook lijstje tonen?", name: "include-in-other-pages-list", widget: "boolean", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
-  # CONTACT
-  - name: "contact"
-    label: "Contactpagina"
-    editor:
-      preview: false
-    files:
-      - name: "contact"
-        label: "Contactpagina"
-        file: "/pages/contact.html"
-        fields:
-          - {label: "Layout", name: "layout", widget: "hidden", default: "default"}
-          - {label: "Title (voor in menu)", name: "title", widget: "string"}
-          - {label: "Title (belangrijk voor google)", name: "title-tag", widget: "string"}
-          - {label: "Meta (belangrijk voor Google", name: "description", widget: "text", required: false}
-          - {label: "URL (het deel achter https://kiannkindercoaching.nl/) (alleen letters, nummers en min tekens toegestaan)", name: "permalink", widget: "string"}
-          - {label: "Grote foto bovenaan", name: "hero-image", widget: "image", required: false}
-          - {label: "Tekst over de grote foto heen", name: "hero-slogan", widget: "string", required: false}
-          - {label: "In menu tonen?", name: "include-in-menu", widget: "boolean", required: false}
-          - {label: "Body", name: "body", widget: "markdown", required: false}     
   # POSTS
   - name: "blog" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Blog" # Used in the UI, ie.: "New Post"
