@@ -9,6 +9,7 @@ permalink: echtscheiding
 hero-image: /uploads/adobestock_249086908.jpeg
 hero-slogan: je kind centraal zetten
 include-in-menu: true
+include-in-other-pages-list: true
 ---
 # (Echt)scheiding
 

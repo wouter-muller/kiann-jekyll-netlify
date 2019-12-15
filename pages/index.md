@@ -10,6 +10,7 @@ permalink: /
 hero-image: uploads/hero-home.jpg
 hero-slogan: Neem mijn hand aan op weg naar jouw doel!
 include-in-menu: true
+include-in-other-pages-list: false
 ---
 ## Ik ben Annelies Hofstee.  Al vele jaren werk ik vol passie met kinderen vanaf 3 maand tot en met  pubers en hun ouders.
 

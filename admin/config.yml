@@ -27,6 +27,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Grote foto bovenaan", name: "hero-image", widget: "image", required: false}
       - {label: "Tekst over de grote foto heen", name: "hero-slogan", widget: "string", required: false}
       - {label: "In menu tonen?", name: "include-in-menu", widget: "boolean", required: false}
+      - {label: "In Lees ook lijstje tonen?", name: "include-in-other-pages-list", widget: "boolean", required: false}
       - {label: "Body", name: "body", widget: "markdown", required: false}
   # CONTACT
   - name: "contact"

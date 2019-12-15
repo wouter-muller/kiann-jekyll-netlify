@@ -8,6 +8,7 @@ description: >-
 permalink: weerbaarheid-en-zelfvertrouwen
 hero-image: ''
 include-in-menu: true
+include-in-other-pages-list: true
 ---
 ![](/uploads/fullsizerender-14-.jpg)
 
