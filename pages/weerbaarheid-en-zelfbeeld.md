@@ -8,7 +8,6 @@ description: >-
 permalink: weerbaarheid-en-zelfvertrouwen
 hero-image: ''
 include-in-menu: true
-include-in-other-pages-list: true
 ---
 ![](/uploads/fullsizerender-14-.jpg)
 
@@ -18,6 +17,6 @@ include-in-other-pages-list: true
 
 Wat zou je kind anders willen? Vanuit daar gaan we samen aan de slag om te kijken wat nodig en helpend is. 
 
-Het kan zijn dat je kind wil leren om steviger in z'n schoenen te staan en duidelijker z'n grenzen aan durft te geven op een goede manier. Of je kind wil leren op een juiste manier en met respect voor de ander leren aangeven wat hij ergens van vindt en wat hij wil. Of je kind wil leren hoe het contact kan maken met andere kinderen om een vriendschap op te bouwen of bij een groepje betrokken te worden. Of jij als ouder wil graag dat je kind positiever over zichzelf gaat denken.
+Het kan zijn dat je kind wil leren om steviger in z'n schoenen te staan en duidelijker z'n grenzen aan durft te geven op een goede manier. Of je kind wil leren op een juiste manier en met respect voor de ander te leren aangeven wat hij ergens van vindt en wat hij wil. Of je kind wil leren hoe het contact kan maken met andere kinderen om een vriendschap op te bouwen of bij een groepje betrokken te worden. Of jij als ouder wil graag dat je kind positiever over zichzelf gaat denken.
 
 D.m.v. oefeningen, inzichten en het aanleren van vaardigheden kan ik je kind hierin ondersteunen.
