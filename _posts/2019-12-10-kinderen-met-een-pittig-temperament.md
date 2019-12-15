@@ -1,6 +1,7 @@
 ---
 layout: blog
 title: Kinderen met een pittig temperament
+title-tag: Kinderen met een pittig temperament
 permalink: 2019-12-10/kinderen-met-een-pittig-temperament
 friendly-date: 10 december 2019
 image: /uploads/boos.jpg
