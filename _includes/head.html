@@ -19,7 +19,19 @@
     <meta property="og:title" content="{% if page.title_tag %}{{ page.title_tag }}{% else if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
     <meta property="og:url" content="{{ site.url }}{{ page.url }}">
     <meta property="og:type" content="website">
-    <meta property="og:description" content="{{ page.description_tag }}">
+    <meta property="og:description" content="{{ page.description }}">
+
+    {% if jekyll.environment == 'production' %}
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154647714-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-154647714-1');
+        </script>
+    {% endif %}
 
     {% if page.meta_image %}
         <meta property="og:image" content="{{ page.meta_image }}">
@@ -28,19 +40,9 @@
     <!-- Twitter card -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="{% if page.title_tag %}{{ page.title_tag }}{% else if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
-    <meta name="twitter:description" content="{{ page.description_tag }}">
+    <meta name="twitter:description" content="{{ page.description }}">
     <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
     {% if page.meta_image %}
         <meta name="twitter:image" content="{{ page.meta_image }}">
     {% endif %}
-
-
-    <!-- FAVICONS -->
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-    <link rel="manifest" href="/site.webmanifest">
-    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#7ad354">
-    <meta name="msapplication-TileColor" content="#ffffff">
-    <meta name="theme-color" content="#ffffff">
 </head>
