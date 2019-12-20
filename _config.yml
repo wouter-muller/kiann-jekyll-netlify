@@ -76,6 +76,5 @@ exclude:
   - vendor/ruby/
   - src/
   - design/
-  - admin/
 
 keep_files: [dist, uploads]
