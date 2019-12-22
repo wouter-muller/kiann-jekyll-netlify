@@ -2,7 +2,7 @@
 layout: blog
 title: Laat je kind met een driftbui niet in een winkelpad liggen
 title-tag: Laat je kind met een driftbui niet in een winkelpad liggen
-description: Laat je kind met een driftbui niet in een winkelpad liggen
+description: ''
 permalink: 2019-12-22/laat-je-kind-met-een-driftbui-niet-in-een-winkelpad-liggen
 friendly-date: Zondag 22 december 2019
 image: /uploads/45.jpg
