@@ -75,7 +75,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Title (belangrijk voor google, wordt automatisch aangevuld met - Kiann Kindercoaching)", name: "title-tag", widget: "string"}
       - {label: "Meta (belangrijk voor Google", name: "description", widget: "text", required: false}
-      - {label: "URL (het deel achter https://kiannkindercoaching.nl/) (alleen letters, nummers en min tekens toegestaan)", name: "permalink", widget: "string"}
+      - {label: "URL (voorbeeld 2019-12-12/het-onderwerp-als-een-zin) (geen hoofdletters, geen spaties)", name: "permalink", widget: "string"}
       - {label: "Datum (voorbeeld: Woensdag 12 november 2019)", name: "friendly-date", widget: "string"}
       - {label: "Foto die bij het artikel hoort (die wordt in het overzicht getoond)", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown", required: false}
