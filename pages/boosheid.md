@@ -29,4 +29,4 @@ Wat vertelt je kind je eigenlijk? Op welk moment gaat het mis? Hoe ga je om met 
 
 Lees ook mijn blog over '[Kinderen met een pittig temperament](/2019-12-10/kinderen-met-een-pittig-temperament)'.
 
-Lees ook mijn blog over 'Laat je kind met een driftbui niet in een winkelpad liggen'
+Lees ook mijn blog over '[Laat je kind met een driftbui niet in een winkelpad liggen](https://kiannkindercoaching.nl/2019-12-22/laat-je-kind-met-een-driftbui-niet-in-een-winkelpad-liggen)'
