@@ -4,7 +4,7 @@ title: Overprikkeling en de ‘brandstof’ van je kind
 title-tag: Overprikkeling en de ‘brandstof’ van je kind
 description: Overprikkeling en de ‘brandstof’ van je kind
 permalink: 2019-12-28/overprikkeling-en-de-brandstof-van-je-kind
-friendly-date: 28 december 2019
+friendly-date: zaterdag 28 december 2019
 image: /uploads/22.png
 ---
 Een verandering, een lange opwindende dag, te veel lawaai of te veel visuele indrukken kan ervoor zorgen dat je kind overprikkeld raakt.
