@@ -12,11 +12,11 @@ include-in-other-pages-list: true
 ---
 # Hooggevoelige (sensitieve), hoogstimulatieve en temperamentvolle kinderen met een sterke eigen wil
 
-## Een groot aantal kinderen is gevoelig tot hooggevoelig. Tegenwoordig hoor je er meer over maar ook vroeger bestond het. Door de steeds meer eisende maatschappij komt het meer naar boven.
+## Een groot aantal kinderen is gevoelig tot hooggevoelig. Tegenwoordig hoor je meer over hooggevoeligheid maar vroeger  bestond het ook. Door de steeds meer eisende maatschappij komt het meer naar boven.
 
 ![hoogsensitief kind heeft tijd nodig om informatie te verwerken-Kiann kindercaoching](/uploads/kluwen-poppetjes.png "Als het kind kortsluiting heeft moet jij aansluiting zoeken-Kiann kindercoaching")
 
-Hooggevoellig ben je al vanaf je geboorte, met alle bijbehorende mooie eigenschappen. Elk hooggevoelig kind/persoon is weer anders. Merk je dat je kind hooggevoelig is en tegen obstakels aanloopt op school, op  andere plekken buitenshuis of thuis, dan kan ik jullie begeleiden. Voorbeelden van obstakels zijn: de drukte en snelheid van de wereld om hen heen, veranderingen en onrechtvaardigheid waar je kind mee te maken krijgt, z'n volhardendheid, het zich ‘anders’ voelen, moeite hebben met concentreren door alle prikkels om zich heen, overspoeld raken en blokkeren of uitbarsten in woede en moeite in slaap te komen.
+Hooggevoelig ben je al vanaf je geboorte, met alle bijbehorende mooie eigenschappen. Elk hooggevoelig kind/persoon is weer anders. Merk je dat je kind hooggevoelig is en tegen obstakels aanloopt op school, op  andere plekken buitenshuis of thuis, dan kan ik jullie begeleiden. Voorbeelden van obstakels zijn: de drukte en snelheid van de wereld om hen heen, veranderingen en onrechtvaardigheid waar je kind mee te maken krijgt, z'n volhardendheid, het zich ‘anders’ voelen, moeite hebben met concentreren door alle prikkels om zich heen, overspoeld raken en blokkeren of uitbarsten in woede en moeite in slaap te komen.
 
 Daarnaast kan je (hooggevoelige) kind een hele sterke eigen wil hebben en temperamentvol zijn, wat voor jullie als ouders best pittig kan zijn. Boos worden en straffen werkt vaak averechts. Ik kan jullie begeleiden in wat wel werkt voor je kind en jullie als ouders.
 
