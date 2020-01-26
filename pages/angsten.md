@@ -21,6 +21,6 @@ Heeft je kind (tijdelijk) last van diverse angsten? Angst voor bepaalde dieren, 
 
 Samen onderzoek ik met jullie wat het werkelijke onderliggende probleem is en wat nodig is om de faalangst of andere angst te reduceren of zelfs te laten verdwijnen.
 
-Lees ook mijn blog [Goede complimenten geven hoe doe je dat](2020-01-26-goede-complimenten-geven-hoe-doe-je-dat)
+Lees ook mijn blog [](2020-01-26-goede-complimenten-geven-hoe-doe-je-dat)[2020-01-26-Goede-complimenten-geven-hoe-doe-je-dat](2020-01-26-goede-complimenten-geven-hoe-doe-je-dat)
 
 ![](/uploads/safe_image.jpg)
