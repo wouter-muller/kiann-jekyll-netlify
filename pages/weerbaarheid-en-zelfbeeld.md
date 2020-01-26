@@ -23,3 +23,5 @@ Het kan zijn dat je kind wil leren om steviger in z'n schoenen te staan en duide
 D.m.v. oefeningen, inzichten en het aanleren van vaardigheden kan ik je kind hierin ondersteunen.
 
 Lees ook mijn blog [2020-1-11/bemoei-je-niet-met-de-spaaractie-van-je-kind](2020-1-11/bemoei-je-niet-met-de-spaaractie-van-je-kind)
+
+Lees ook mijn blog [2020-01-26-goede-complimenten-geven-hoe-doe-je-dat](2020-01-26-goede-complimenten-geven-hoe-doe-je-dat)
