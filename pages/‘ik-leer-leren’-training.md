@@ -32,4 +32,6 @@ In deze workshop leert je kind niet alleen een goede planning te maken, maar voo
 
 De workshop kan zowel individueel als in groepsverband gevolgd worden.
 
+lees ook mijn blog over [Plannen & Uitvoeren](2020-03-04-workshop-plannen-&-uitvoeren)
+
 ![Ik leer leren training Kiann kindercoaching](/uploads/74889327_2560880473995687_4412162908964782080_n.jpg)
