@@ -7,11 +7,9 @@ permalink: 2020-03-04-workshop-plannen-&-uitvoeren
 friendly-date: woensdag 4 maart 2020
 image: /uploads/81324544_2918849181466809_389019493218648064_n.jpg
 ---
-WORKSHOP ‘PLANNEN EN UITVOEREN’
+De meeste kinderen kúnnen best wel een planning maken. Want als ze het al niet uit zichzelf doen, dan leren ze het wel op school bij de mentorlessen. En toch blijkt het vaak moeilijk om het in de praktijk te dóen, en om je vervolgens ook nog aan je planning te houden. 
 
-**De meeste kinderen kúnnen best wel een planning maken. Want als ze het al niet uit zichzelf doen, dan leren ze het wel op school bij de mentorlessen. En toch blijkt het vaak moeilijk om het in de praktijk te dóen, en om je vervolgens ook nog aan je planning te houden. Hoe komt dat?In de workshop ‘Plannen en uitvoeren’ gaan we dit onderzoeken en leert je kind hoe het daadwerkelijk planningen maakt én haalt.**
-
-Waarom hou je je niet aan je planning?
+Hoe komt dat?In de workshop ‘Plannen en uitvoeren’ gaan we dit onderzoeken en leert je kind hoe het daadwerkelijk planningen maakt én haalt. Waarom hou je je niet aan je planning?
 
 Hier kunnen verschillende redenen voor zijn. Het kan met motivatie te hebben, of lukt het gewoon nog niet om het allemaal goed te organiseren. Of misschien heeft je kind zijn ‘startknop’ nog niet gevonden en kan het zichzelf moeilijk aan het werk zetten. Als je kind na het maken van de test ontdekt aan welke dingen het ligt, kan het daadwerkelijk tot een actieplan komen.
 
