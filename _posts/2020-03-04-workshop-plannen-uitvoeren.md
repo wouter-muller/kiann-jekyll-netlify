@@ -35,15 +35,11 @@ Wat gaan we doen tijdens deze workshop?
 
 \- Afspraak met jezelf voor komende week
 
-
-
 2e bijeenkomst
 
 \- Bespreken afgelopen weer
 
 \- Oefening executieve functies
-
-![]()
 
 \- Onderzoek naar je eigen uitdagingen op het gebied van plannen
 
@@ -51,11 +47,7 @@ Wat gaan we doen tijdens deze workshop?
 
 \- Afsluiting
 
-![uitleg workshop plannen en uitvoeren](/uploads/80723178_2918849054800155_3460527378852216832_n.jpg "uitleg workshop plannen en uitvoeren")
-
-![]()
-
-![]()
+![pagina werkboek plannen en uitvoeren](/uploads/80723178_2918849054800155_3460527378852216832_n.jpg "pagina werkboek plannen en uitvoeren")
 
 Voor wie is de workshop bedoeld?
 
