@@ -51,8 +51,8 @@ Wat gaan we doen tijdens deze workshop?
 
 **Voor wie is de workshop bedoeld?**
 
-De workshop is bedoeld voor kinderen op de middelbare school, die last hebben van het niet maken van een planning en/of moeite hebben met het uitvoeren van hun planning.\
-\
+De workshop is bedoeld voor kinderen op de middelbare school, die last hebben van het niet maken van een planning en/of moeite hebben met het uitvoeren van hun planning.
+
 **Dat kan zich uiten in:**
 
 \- stress op het laatste moment
