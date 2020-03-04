@@ -23,7 +23,7 @@ Ze gaan vervolgens **daadwerkelijk aan de slag**met het ontwikkelen van die punt
 
 Wat gaan we doen tijdens deze workshop?
 
-1e bijeenkomst
+**1e bijeenkomst**
 
 \- Kennismaken
 
@@ -35,7 +35,7 @@ Wat gaan we doen tijdens deze workshop?
 
 \- Afspraak met jezelf voor komende week
 
-2e bijeenkomst
+**2e bijeenkomst**
 
 \- Bespreken afgelopen weer
 
@@ -49,11 +49,11 @@ Wat gaan we doen tijdens deze workshop?
 
 ![pagina werkboek plannen en uitvoeren](/uploads/80723178_2918849054800155_3460527378852216832_n.jpg "pagina werkboek plannen en uitvoeren")
 
-Voor wie is de workshop bedoeld?
+**Voor wie is de workshop bedoeld?**
 
 De workshop is bedoeld voor kinderen op de middelbare school, die last hebben van het niet maken van een planning en/of moeite hebben met het uitvoeren van hun planning.\
 \
-Dat kan zich uiten in
+**Dat kan zich uiten in:**
 
 \- stress op het laatste moment
 
