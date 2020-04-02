@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: Is-mijn-pittig-kind-hooggevoelig-en-wat-heeft-hij-of-zij-nodig?
-title-tag: Is-mijn-pittig-kind-hooggevoelig-en-wat-heeft-hij-of-zij-nodig?
-description: Is-mijn-pittig-kind-hooggevoelig-en-wat-heeft-hij-of-zij-nodig?
+title: Is mijn pittig kind hooggevoelig en wat heeft hij of zij nodig?
+title-tag: Is mijn pittig kind hooggevoelig en wat heeft hij of zij nodig?
+description: Is mijn pittig kind hooggevoelig en wat heeft hij of zij nodig?
 permalink: 2020-04-02-is-mijn-pittig-kind-hooggevoelig-en-wat-heeft-hij-of-zij-nodig?
 friendly-date: 2 april 2020
 image: /uploads/wat-verteld-mijn-kind-mij-kiann-kindercoaching.jpg
