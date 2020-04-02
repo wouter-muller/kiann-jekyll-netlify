@@ -35,3 +35,5 @@ Lees ook mijn blog [2019-12-10/kinderen-met-een-pittig-temperament](2019-12-10/k
 lees ook mijn blog  [2019-12-28/overprikkeling en de brandstof van mijn kind](2019-12-28/overprikkeling-en-de-brandstof-van-je-kind)
 
 lees ook mijn blog [](2020-1-5/wat-betekent-het-als-een-kind-hooggevoelig-of-hoogsensitief-is)[2020-1-5/wat-betekent-het-als-een-kind-hooggevoelig-of-hoogsensitief-is](2020-1-5/wat-betekent-het-als-een-kind-hooggevoelig-of-hoogsensitief-is)
+
+lees ook mijn blog over [2020-04-02-is-mijn-pittig-kind-hooggevoelig-en-wat-heeft-hij-of-zij-nodig?](2020-04-02-is-mijn-pittig-kind-hooggevoelig-en-wat-heeft-hij-of-zij-nodig?)
