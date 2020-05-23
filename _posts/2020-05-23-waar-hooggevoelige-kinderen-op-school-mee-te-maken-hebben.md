@@ -9,8 +9,6 @@ permalink: 2020-05-23-waar-hooggevoelige-kinderen-op-school-mee-te-maken-hebben
 friendly-date: zaterdag 23 mei 2020
 image: /uploads/zelfverzekerd-naar-school-kiann-kindercoaching.png
 ---
-Waar hooggevoelige kinderen op school mee te maken hebben.
-
 Overprikkeling
 
 Een klaslokaal kan behoorlijk overprikkelend zijn voor een hooggevoelig kind: het hangt vol met kleurrijke materialen, er zijn geluidjes van de verwarming, tikkende pennen of schuivende stoelen aanwezig, de sociale druk van de groep is voelbaar, de geur van toilet en gymtassen dringt de klas binnen en de stemming van de juf of meester is voelbaar. Al deze prikkels voelen hooggevoelige kinderen en verwerken zij op hun eigen intense wijze. Sommige kinderen worden erdoor afgeleid en belemmerd in hun concentratie.
