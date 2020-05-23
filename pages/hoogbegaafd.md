@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 'Hooggevoelige, hoogstimulatieve en temperamentvolle kinderen'
+title: Hooggevoelige, hoogstimulatieve en temperamentvolle kinderen
 title-tag: Hooggevoeligheid HSK- hoogsensitief
 description: >
   Wanneer hoogsensitieve kinderen de juiste begeleiding in hun opvoeding en op
   school krijgen, kunnen ze op te groeien tot evenwichtige personen.
 permalink: hoogevoeligheid-hoogsensitiviteit-temperamentvol-kind-sterke wil
-hero-image: ''
+hero-image: ""
 include-in-menu: true
 include-in-other-pages-list: true
 ---
@@ -37,3 +37,5 @@ lees ook mijn blog  [2019-12-28/overprikkeling en de brandstof van mijn kind](20
 lees ook mijn blog [](2020-1-5/wat-betekent-het-als-een-kind-hooggevoelig-of-hoogsensitief-is)[2020-1-5/wat-betekent-het-als-een-kind-hooggevoelig-of-hoogsensitief-is](2020-1-5/wat-betekent-het-als-een-kind-hooggevoelig-of-hoogsensitief-is)
 
 lees ook mijn blog over [2020-04-02-is-mijn-pittig-kind-hooggevoelig-en-wat-heeft-hij-of-zij-nodig?](2020-04-02-is-mijn-pittig-kind-hooggevoelig-en-wat-heeft-hij-of-zij-nodig?)
+
+lees ook mijn blog over [2020-05-23-waar-hooggevoelige-kinderen-op-school-mee-te-maken-hebben](2020-05-23-waar-hooggevoelige-kinderen-op-school-mee-te-maken-hebben)
