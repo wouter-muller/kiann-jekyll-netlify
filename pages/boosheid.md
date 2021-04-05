@@ -31,4 +31,4 @@ Lees ook mijn blog over '[Kinderen met een pittig temperament](/2019-12-10/kinde
 
 Lees ook mijn blog over '[Laat je kind met een driftbui niet in een winkelpad liggen](https://kiannkindercoaching.nl/2019-12-22/laat-je-kind-met-een-driftbui-niet-in-een-winkelpad-liggen)'
 
-Lees ook mijn blog over [](/2021-14-05-2021/ouder-zijn-van-een-pittig-kind)[2021-04-05/ouder-zijn-van-een-pittig-kind](2021-04-05/ouder-zijn-van-een-pittig-kind)
+"Lees ook mijn blog over [](/2021-14-05-2021/ouder-zijn-van-een-pittig-kind)[](2021-04-05/ouder-zijn-van-een-pittig-kind)[2021-04-05/ouder-zijn-van-een-pittig-kind](2021-04-05/ouder-zijn-van-een-pittig-kind)
