@@ -2,14 +2,14 @@
 layout: default
 title: Privacy policy
 title-tag: Privacy policy
-description: >+
+description: >
   Privacybeleid, Kiann Kindercoaching & Opvoedondersteuning gevestigd aan
   Waterviolier 1, 9613 BH Meerstad, is verantwoordelijk voor de verwerking van
   persoonsgegevens zoals weergegeven in deze privacyverklaring.
 permalink: privacy-policy
+hero-image: ""
 include-in-menu: false
 include-in-other-pages-list: false
-hero-image: ''
 ---
 # Privacybeleid:
 
@@ -17,23 +17,15 @@ Kiann Kindercoaching & Opvoedondersteuning gevestigd aan Waterviolier 1, 9613 BH
 
 ## Contactgegevens:
 
-www.kiannkindercoaching.nl Waterviolier 1 9613 BH Meerstad 06-13183955
+www.kiannkindercoaching.nl te Meerstad. Telefoonnummer: 06-13183955
 
 Annelies Hofstee is de Functionaris Gegevensbescherming van Kiann Kindercoaching & Opvoedondersteuning. Zij is te bereiken via info@kiannkindercoaching.nl
 
-
-
 Kiann Kindercoaching & Opvoedondersteuning:
-
-
 
 1. verwerkt uw persoonsgegevens doordat u gebruik maakt van onze diensten en/of omdat u deze zelf aan ons verstrekt. Hieronder vindt u een overzicht van de persoonsgegevens die wij verwerken:
 
 \- Voor- en achternaam
-
-\- Geslacht
-
-\- Geboortedatum
 
 \- Adresgegevens
 
@@ -45,11 +37,11 @@ Kiann Kindercoaching & Opvoedondersteuning:
 
 \- Bankrekeningnummer
 
-2.  verwerkt de volgende bijzondere en/of gevoelige persoonsgegevens van u:
+2. verwerkt de volgende bijzondere en/of gevoelige persoonsgegevens van u:
 
 Gegevens van personen jonger dan 16 verstrekt door of in overleg met de ouders. Als u ervan overtuigd bent dat wij zonder toestemming persoonlijke gegevens hebben verzameld over een minderjarige, neem dan contact met ons op via info@kiannkindercoaching.nl, dan verwijderen wij deze informatie.
 
-3.  verwerkt uw persoonsgegevens voor de volgende doelen:
+3. verwerkt uw persoonsgegevens voor de volgende doelen:
 
 \- Het afhandelen van uw betaling
 
@@ -59,14 +51,9 @@ Gegevens van personen jonger dan 16 verstrekt door of in overleg met de ouders. 
 
 \- Persoonsgegevens als wij hier wettelijk toe verplicht zijn, zoals gegevens die wij nodig hebben voor de belastingaangifte.
 
-4.  gebruikt de volgende computerprogramma's of -systemen: Word en Exel voor het opslaan van verstrekte gegevens van de cliënt voor en tijdens een sessie en de boekhouding.  
-
-5.  bewaart uw persoonsgegevens niet langer dan strikt nodig is om de doelen te realiseren waarvoor uw gegevens worden verzameld
-
+4. gebruikt de volgende computerprogramma's of -systemen: Word en Exel voor het opslaan van verstrekte gegevens van de cliënt voor en tijdens een sessie en de boekhouding.  
+5. bewaart uw persoonsgegevens niet langer dan strikt nodig is om de doelen te realiseren waarvoor uw gegevens worden verzameld
 6. verkoopt uw gegevens niet aan derden en verstrekt deze uitsluitend indien dit nodig is om te voldoen aan een wettelijke verplichting. Met bedrijven die uw gegevens verwerken in onze opdracht, sluiten wij een bewerkersovereenkomst om te zorgen voor eenzelfde niveau van beveiliging en vertrouwelijkheid van uw gegevens. Kiann blijft verantwoordelijk voor deze verwerkingen.
-
 7. gebruikt geen cookies of vergelijkbare technieken.
-
 8. wil u erop wijzen dat u de mogelijkheid hebt om een klacht in te dienen bij de nationale toezichthouder, de Autoriteit Persoonsgegevens. Dat kan via de volgende link: https://autoriteitpersoonsgegevens.nl/nl/contact-met-de-autoriteit-persoonsgegevens/tip-ons
-
 9. neemt de bescherming van uw gegevens serieus en neemt passende maatregelen om misbruik, verlies, onbevoegde toegang, ongewenste openbaarmaking en ongeoorloofde wijziging tegen te gaan.
