@@ -23,8 +23,6 @@ Samen onderzoek ik met jullie wat het werkelijke onderliggende probleem is en wa
 
 Lees ook mijn blog [](2020-01-26-goede-complimenten-geven-hoe-doe-je-dat)[2020-01-26-Goede-complimenten-geven-hoe-doe-je-dat](2020-01-26-goede-complimenten-geven-hoe-doe-je-dat)
 
-"﻿Lees ook mijn blog over [2024-07-10-grenzen](2024-07-10-grenzen)
-
-
+﻿Lees ook mijn blog over '[2024-07-10-grenzen](2024-07-10-grenzen)
 
 ![](/uploads/safe_image.jpg)
